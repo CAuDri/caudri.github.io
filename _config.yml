@@ -167,7 +167,7 @@ defaults:
   home:
     heading: "CAuDri Challenge"
     subheading: "Cognitive Autonomous Driving Challenge"
-    banner: "assets/images/caudri_2023_banner.jpg"
+    banner: "assets/images/banners/caudri_2023_banner.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
