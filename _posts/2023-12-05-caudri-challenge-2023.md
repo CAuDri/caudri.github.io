@@ -25,3 +25,9 @@ published: true
 ---
 
 Hier soll eine Zusammenfassung der CAuDri Challenge von 2023 hin kommen.
+
+# Inhalt
+- Teamvorstellung mit Teamfotos
+- Videos von den runs
+- Danksagung an Sponsoren und Unterstützer
+- Beschreibung des Tagesablaufs (evtl. mit Zeitplan)
