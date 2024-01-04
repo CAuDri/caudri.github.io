@@ -167,7 +167,7 @@ defaults:
   home:
     heading: " "
     subheading: ""
-    banner: "assets/images/banners/caudri_2023_banner.jpg"
+    banner: "assets/images/banners/Banner_DINA0_scaled2_fade1.webp."
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
