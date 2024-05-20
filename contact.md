@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Imprint
+title: Contact
 ---
 
 ## Contact Information
