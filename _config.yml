@@ -25,7 +25,7 @@ author: CAuDri e.V.
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'localhost:4000/'
+url: 'localhost:4000'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
@@ -42,7 +42,7 @@ urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "caudri_logo_cropped_600x214.png"
+logo: "caudri_logo_inv_cropped_512x209.png"
 
 # Plugins
 plugins:
