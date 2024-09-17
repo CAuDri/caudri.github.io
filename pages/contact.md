@@ -19,4 +19,4 @@ Germany
 [kontakt@caudri-challenge.de](mailto:kontakt@caudri-challenge.de)
 
 #### Discord Server:
-[{{site.discord_invite}}]({{site.discord_invite}})
+[{{site.caudri.discord_invite}}]({{site.caudri.discord_invite}})
