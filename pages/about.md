@@ -10,7 +10,7 @@ image:
 The CAuDri-Challenge aims to provide a platform for students to develop their own autonomous model vehicles and compete in a series of driving challenges. 
 Each team will design and build a 1:10 scale autonomous vehicle that can navigate complex rural and suburban scenarios, adhering to traffic rules, recognizing road signs, obeying speed limits, and maneuvering around obstacles.
 
-Join our Discord server and stay up to date with the latest news and announcements: [{{site.discord_invite}}]({{site.discord_invite}})
+Join our Discord server and stay up to date with the latest news and announcements: [{{site.caudri.discord_invite}}]({{site.caudri.discord_invite}})
 
 
 
