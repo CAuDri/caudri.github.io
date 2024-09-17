@@ -5,7 +5,7 @@ title               : "Contact us"
 # subheadline         : "Contact Form"
 # teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
-header              : no
+# header              : no
 ---
 
 #### Address:

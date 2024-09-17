@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Privacy Policy"
 permalink: "/privacy/"
-header: no
+# header: no
 ---
 <h1>Datenschutzerklärung</h1>
 <p>Stand: 17. September 2024</p><h2>Inhaltsübersicht</h2>
