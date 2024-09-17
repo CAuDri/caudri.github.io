@@ -11,6 +11,13 @@
 
 */
 
+/* CAuDri Color Palette
+------------------------------------------------------------------- */
+$caudri-light-blue  : #70c3da;
+$caudri-blue        : #00ADDE;
+$caudri-dark-blue   : #0097ce;
+$caudri-grey        : #454746;
+$caudri-navy        : #13294B;
 
 
 /* Basics
@@ -18,7 +25,7 @@
 
 $text-color         : #111;
 $body-font-color    : $text-color;
-$body-bg            : #fdfdfd;
+$body-bg            : #ececec;
 
 
 
@@ -38,8 +45,8 @@ $ci-6               : #A1D044; // green
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color      : $ci-1;
-$secondary-color    : $ci-6;
+$primary-color      : $caudri-grey;
+$secondary-color    : $caudri-blue;
 $alert-color        : $ci-5;
 $success-color      : $ci-6;
 $warning-color      : $ci-4;
@@ -83,24 +90,24 @@ $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-label-color: $caudri-blue;
+$topbar-dropdown-link-bg-hover: $caudri-blue;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $caudri-dark-blue; // Active Navigation Link
+$topbar-link-bg-hover: $caudri-blue;
+$topbar-link-bg-active-hover: $caudri-blue;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $caudri-blue; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $caudri-blue;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $caudri-blue;
+$topbar-menu-icon-color-toggled: $caudri-blue;
 
 
 
@@ -109,7 +116,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 
 $footer-bg          : $grey-8;
 $footer-color       : #fff;
-$footer-link-color  : $ci-6;
+$footer-link-color  : $caudri-light-blue;
 
 
 $subfooter-bg       : $grey-13;
