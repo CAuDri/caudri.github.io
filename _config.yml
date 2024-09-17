@@ -55,6 +55,9 @@ caudri:
     github: "https://github.com/CAuDri"
     discord_invite: "https://discord.com/invite/ZvPmWd5hAK"
 
+# Cookie Consent Notice
+cookie_notice: 
+  message: "We use cookies to ensure you get the best experience on our website. By using our website you agree to the use of cookies."
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
