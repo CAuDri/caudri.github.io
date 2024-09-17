@@ -44,10 +44,10 @@ permalink: /index.html
 #
 homepage: true
 ---
-## Welcome to the official website of the Caudri-Challenge
+## Welcome to the official website of the Cognitive Autonomous Driving Challenge!
 Our website is currently under construction. Check back soon for updates!
 
-[Learn more about us](./about.html)
+[Learn more about us ->](/about/)
 
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
