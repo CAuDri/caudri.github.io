@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="localhost:4000//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="CAuDri.github.io//assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="localhost:4000//assets/js/modernizr.min.js"></script>
+	<script src="CAuDri.github.io//assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="localhost:4000//assets/xslt/rss.xslt">
+	<link rel="canonical" href="CAuDri.github.io//assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="Official website of the Cognitive Autonomous Driving Challenge - Hosted and maintained by CAuDri e.V.">
-	<meta property="og:url" content="localhost:4000//assets/xslt/rss.xslt">
+	<meta property="og:url" content="CAuDri.github.io//assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="CAuDri-Challenge">
@@ -53,34 +53,34 @@
 
 	
 
-	<link type="text/plain" rel="author" href="localhost:4000//humans.txt">
+	<link type="text/plain" rel="author" href="CAuDri.github.io//humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="localhost:4000/assets/img/caudri_logo_32x32.png">
+	<link rel="icon" sizes="32x32" href="CAuDri.github.io/assets/img/caudri_logo_32x32.png">
 
-	<link rel="icon" sizes="192x192" href="localhost:4000/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="CAuDri.github.io/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="CAuDri.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="CAuDri.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="CAuDri.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="CAuDri.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="CAuDri.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="CAuDri.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="CAuDri.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="CAuDri.github.io/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="localhost:4000/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="CAuDri.github.io/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -99,7 +99,7 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="localhost:4000/" class="icon-tree"> CAuDri-Challenge</a></h1>
+      <h1 class="hide-for-large-up"><a href="CAuDri.github.io/" class="icon-tree"> CAuDri-Challenge</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
@@ -116,7 +116,7 @@
 
             
             
-              <li><a  href="localhost:4000//">CAuDri-Challenge</a></li>
+              <li><a  href="CAuDri.github.io//">CAuDri-Challenge</a></li>
               <li class="divider"></li>
 
             
@@ -131,7 +131,7 @@
 
             
             
-              <li><a  href="localhost:4000//about/">About</a></li>
+              <li><a  href="CAuDri.github.io//about/">About</a></li>
               <li class="divider"></li>
 
             
@@ -146,7 +146,7 @@
 
             
             
-              <li><a  href="localhost:4000//gallery/">Gallery</a></li>
+              <li><a  href="CAuDri.github.io//gallery/">Gallery</a></li>
               <li class="divider"></li>
 
             
@@ -206,7 +206,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="localhost:4000//join/">Join us!</a></li>
+              <li><a  href="CAuDri.github.io//join/">Join us!</a></li>
 
             
             
@@ -222,7 +222,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="localhost:4000//contact/">Contact</a></li>
+              <li><a  href="CAuDri.github.io//contact/">Contact</a></li>
 
             
             
@@ -240,8 +240,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="localhost:4000/" title="CAuDri-Challenge – Cognitive Autonomous Driving Challenge">
-				<img src="localhost:4000//assets/img/caudri_logo_inv_cropped_512x209.png" alt="CAuDri-Challenge – Cognitive Autonomous Driving Challenge">
+			<a id="logo" href="CAuDri.github.io/" title="CAuDri-Challenge – Cognitive Autonomous Driving Challenge">
+				<img src="CAuDri.github.io//assets/img/caudri_logo_inv_cropped_512x209.png" alt="CAuDri-Challenge – Cognitive Autonomous Driving Challenge">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -319,7 +319,7 @@
 
             <p class="shadow-black">
               Official website of the Cognitive Autonomous Driving Challenge - Hosted and maintained by CAuDri e.V.
-              <a href="localhost:4000//info/">More ›</a>
+              <a href="CAuDri.github.io//info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -341,22 +341,22 @@
               
                 
                   <li >
-                    <a href="localhost:4000/"  title=""></a>
+                    <a href="CAuDri.github.io/"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="localhost:4000//contact/"  title="Contact">Contact</a>
+                    <a href="CAuDri.github.io//contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="localhost:4000//privacy/"  title="Privacy Policy">Privacy Policy</a>
+                    <a href="CAuDri.github.io//privacy/"  title="Privacy Policy">Privacy Policy</a>
                   </li>
               
                 
                   <li >
-                    <a href="localhost:4000//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="CAuDri.github.io//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
               </ul>
@@ -378,17 +378,17 @@
             
               
                 <li >
-                  <a href="localhost:4000/"  title=""></a>
+                  <a href="CAuDri.github.io/"  title=""></a>
                 </li>
             
               
                 <li class="github" >
-                  <a href="localhost:4000//github/"  title="View our project on GitHub">GitHub</a>
+                  <a href="CAuDri.github.io//github/"  title="View our project on GitHub">GitHub</a>
                 </li>
             
               
                 <li class="discord" >
-                  <a href="localhost:4000//discord/"  title="Join the CAuDri-Challenge Discord Server">Discord</a>
+                  <a href="CAuDri.github.io//discord/"  title="Join the CAuDri-Challenge Discord Server">Discord</a>
                 </li>
             
             </ul>
@@ -420,7 +420,7 @@
 		
 
 
-<script src="localhost:4000//assets/js/javascript.min.js"></script>
+<script src="CAuDri.github.io//assets/js/javascript.min.js"></script>
 
 
 
