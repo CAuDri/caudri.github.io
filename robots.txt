@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://caudri.github.io/sitemap.xml
+Sitemap: https://www.caudri-challenge.de/sitemap.xml
