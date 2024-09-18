@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="localhost:4000//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="localhost:4000//assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>CAuDri-Challenge</title>
+		<description>Official website of the Cognitive Autonomous Driving Challenge - Hosted and maintained by CAuDri e.V.</description>
+		<link>localhost:4000//</link>
+		<atom:link href="localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
