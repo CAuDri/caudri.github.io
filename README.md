@@ -1,6 +1,6 @@
 # CAuDri Website
 
-This is the repository of the official CAuDri-Chellenge Website: [www.caudri-challenge.de](www.caudri-challenge.de)
+This is the repository of the official CAuDri-Challenge Website: [www.caudri-challenge.de](www.caudri-challenge.de)
 
 Based on [Jekyll](https://jekyllrb.com/) and the [Feeling Responsive Theme](https://phlow.github.io/feeling-responsive/).
 
