@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="//assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="//assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>//</id>
+	<id>https://caudri.github.io/</id>
 	<title>CAuDri-Challenge</title>
-	<updated>2024-09-18T02:10:50+00:00</updated>
+	<updated>2024-09-18T02:25:04+00:00</updated>
 
 	<subtitle>Official website of the Cognitive Autonomous Driving Challenge - Hosted and maintained by CAuDri e.V.</subtitle>
 
@@ -19,8 +19,8 @@
 		</author>
 	
 
-	<link href="//atom.xml" rel="self" type="application/rss+xml" />
-	<link href="//" rel="alternate" type="text/html" />
+	<link href="https://caudri.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://caudri.github.io/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
 

@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>//404.html</loc>
+	<loc>https://caudri.github.io/404.html</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>//about/</loc>
-	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +20,9 @@
 
 	
 	<url>
-	<loc>//blog/archive/</loc>
+	<loc>https://caudri.github.io/about/</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,12 +34,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>//atom.xml</loc>
+	<loc>https://caudri.github.io/blog/archive/</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,9 +52,26 @@
 
 	
 	<url>
-	<loc>//contact/</loc>
+	<loc>https://caudri.github.io/atom.xml</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://caudri.github.io/contact/</loc>
+	
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,24 +84,9 @@
 
 	
 	<url>
-	<loc>//feed.xml</loc>
+	<loc>https://caudri.github.io/feed.xml</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>//gallery/</loc>
-	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -114,24 +99,9 @@
 
 	
 	<url>
-	<loc>//humans.txt</loc>
+	<loc>https://caudri.github.io/gallery/</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>//blog/</loc>
-	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -144,24 +114,9 @@
 
 	
 	<url>
-	<loc>//</loc>
+	<loc>https://caudri.github.io/humans.txt</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>//join/</loc>
-	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -174,24 +129,9 @@
 
 	
 	<url>
-	<loc>//privacy/</loc>
+	<loc>https://caudri.github.io/blog/</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>//discord/</loc>
-	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -204,24 +144,9 @@
 
 	
 	<url>
-	<loc>//github/</loc>
+	<loc>https://caudri.github.io/</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>//info/</loc>
-	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -234,9 +159,84 @@
 
 	
 	<url>
-	<loc>//robots.txt</loc>
+	<loc>https://caudri.github.io/join/</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://caudri.github.io/privacy/</loc>
+	
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://caudri.github.io/discord/</loc>
+	
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://caudri.github.io/github/</loc>
+	
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://caudri.github.io/info/</loc>
+	
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://caudri.github.io/robots.txt</loc>
+	
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -253,9 +253,9 @@
 
 	
 	<url>
-	<loc>//sitemap.xml</loc>
+	<loc>https://caudri.github.io/sitemap.xml</loc>
 	
-		<lastmod>2024-09-18T02:10:50+00:00</lastmod>
+		<lastmod>2024-09-18T02:25:04+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

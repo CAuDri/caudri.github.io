@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: //sitemap.xml
+Sitemap: https://caudri.github.io/sitemap.xml
