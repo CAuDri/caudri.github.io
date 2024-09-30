@@ -376,6 +376,8 @@ mark {
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.icon-caudri:before,
+.icon-discord:before,
 .icon-archive:before,
 .icon-browser:before,
 .icon-calendar:before,
@@ -444,7 +446,8 @@ text-transform: none;
 -webkit-font-smoothing: antialiased;
 font-smoothing: antialiased;
 }
-
+.icon-caudri:before { content: "\f137"; }
+.icon-discord:before { content: "\f136"; }
 .icon-archive:before { content: "\f100"; }
 .icon-browser:before { content: "\f101"; }
 .icon-calendar:before { content: "\f133"; }
