@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "03f5dd2a3a893dc3637cdfbb6da25d276f597ea03db701e7220b5dfcde6ef9bf",
-    "current": "03f5dd2a3a893dc3637cdfbb6da25d276f597ea03db701e7220b5dfcde6ef9bf"
+    "previous": "d88fce2322005eeb210f989c208ec70aba5c4645ab9993ba7a50e6fee74727a2",
+    "current": "d88fce2322005eeb210f989c208ec70aba5c4645ab9993ba7a50e6fee74727a2"
   },
   "fonts": [
     "./iconfont.ttf",
     "./iconfont.svg",
     "./iconfont.woff",
-    "./iconfont.eot"
+    "./iconfont.eot",
+    "./iconfont.woff2"
   ],
   "glyphs": {
     "archive": {
@@ -25,6 +26,10 @@
     "camera": {
       "codepoint": 61698,
       "source": "svg-files-for-custom-font/camera.svg"
+    },
+    "caudri": {
+      "codepoint": 61751,
+      "source": "svg-files-for-custom-font/caudri.svg"
     },
     "chat": {
       "codepoint": 61699,
@@ -74,6 +79,10 @@
       "codepoint": 61710,
       "source": "svg-files-for-custom-font/cog.svg"
     },
+    "discord": {
+      "codepoint": 61750,
+      "source": "svg-files-for-custom-font/discord.svg"
+    },
     "dropbox": {
       "codepoint": 61711,
       "source": "svg-files-for-custom-font/dropbox.svg"
@@ -105,10 +114,6 @@
     "globe": {
       "codepoint": 61718,
       "source": "svg-files-for-custom-font/globe.svg"
-    },
-    "googleplus": {
-      "codepoint": 61750,
-      "source": "svg-files-for-custom-font/googleplus.svg"
     },
     "heart": {
       "codepoint": 61719,
@@ -234,8 +239,10 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icon-{{glyph}}",
-    "debug": false,
+    "debug": true,
     "font_ascent": 448,
     "font_descent": 64,
     "font_design_size": 20,
@@ -243,8 +250,8 @@
     "font_name": "iconfont",
     "force": false,
     "input": {
-      "templates": "svg-files-for-custom-font/",
-      "vectors": "svg-files-for-custom-font/"
+      "templates": "svg-files-for-custom-font",
+      "vectors": "svg-files-for-custom-font"
     },
     "no_hash": true,
     "output": {
