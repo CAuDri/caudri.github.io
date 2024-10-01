@@ -3,7 +3,7 @@
 
 - name: Discord
   url: "/discord/"
-  class: icon-chat
+  class: icon-discord
   title: Join the CAuDri-Challenge Discord Server!
 
 - name: GitHub

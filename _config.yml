@@ -164,17 +164,17 @@ defaults:
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32                        : 'caudri_logo_32x32.png'
-touch-icon-192x192                   : 'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed : 'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed : 'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed : 'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed : 'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed : 'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed   : 'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed   : 'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed         : 'apple-touch-icon-precomposed.png'
-msapplication_tileimage              : 'msapplication_tileimage.png'               # Size 144x144
+favicon-32x32                        : 'caudri_icon_32x32.png'
+touch-icon-192x192                   : 'caudri_icon_192x192.png'
+apple-touch-icon-180x180-precomposed : 'caudri_icon_180x180.png'
+apple-touch-icon-152x152-precomposed : 'caudri_icon_152x152.png'
+apple-touch-icon-144x144-precomposed : 'caudri_icon_144x144.png'
+apple-touch-icon-120x120-precomposed : 'caudri_icon_120x120.png'
+apple-touch-icon-114x114-precomposed : 'caudri_icon_114x114.png'
+apple-touch-icon-76x76-precomposed   : 'caudri_icon_76x76.png'
+apple-touch-icon-72x72-precomposed   : 'caudri_icon_72x72.png'
+apple-touch-icon-precomposed         : 'caudri_icon_57x57.png'
+msapplication_tileimage              : 'caudri_icon_144x144.png'
 msapplication_tilecolor              : '#fabb00'
 
 
