@@ -19,6 +19,11 @@
   url: "/regulations/"
   side: left
 
+
+- title: "Newsletter"
+  url: "/newsletter/"
+  side: right
+
 - title: "Join us!"
   url: "/join/"
   side: right
