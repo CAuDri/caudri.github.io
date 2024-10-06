@@ -20,8 +20,6 @@ Many of the teams now competing in the CAuDri-Challenge previously took part in 
 
 The event was the motivation for students to spend their little free time on their vehicles, without it we had no reason to continue. At a get together at Ulm University in 2023, experiencing cooperation and competition with like minded students once again - the idea to hold our own competition formed as we decided to take matters in our own hands. 
 
-We were allowed to build on the mature regulations of the Carolo-Cup (thank you <3!) which we modified to fit our needs.
-
 ## The CAuDri e.V.
 The CAuDri e.V. ("e. V." meaning *registered association* in German) is the organizer of the CAuDri-Challenge and its the associations purpose to organize the annual challenge. This includes cooperating with teams, institutions and cooperations to host the event, like providing regulated tracks for testing and competing, team ares, prices, moderation and more. Furthermore we want to help new teams on getting started by providing software and hardware resources to lower the beerier of entry.
 
