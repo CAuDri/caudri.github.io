@@ -9,21 +9,21 @@ header:
   image_fullwidth: caudri_challenge_banner_cropped_dark.jpg
 
 widget1:
-  title: "Whats CAuDri?"
+  title: "What is CAuDri?"
   url: '/about/'
   image: widget_teamphoto_302x182.webp
-  text: 'Who we are and what the CAuDri-Challenge is all about. Learn some of the history and future plans.'
+  text: 'Who we are and what the CAuDri-Challenge is all about. Learn some of our history and future plans.'
 widget2:
   title: "Get an impression!"
   url: '/gallery/'
   image: widget_gallery_302x182.webp
-  text: 'This is what it looked like at our previous CAuDri-Challenge events, what a blast!'
+  text: 'Take a look at our previous CAuDri-Challenge events.'
 # VIDEOS ARE ALSO POSSIBLE HERE!  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Join up!"
   url: '/join/'
   image: widget_mail_302x182.webp
-  text: 'Interested? Then join the discord on our server or subscribe to our mailing list so you do not miss it!'
+  text: 'Interested? Join our Discord community or subscribe to our mailing list to never miss an update!'
 #
 # Use the call for action to show a button on the frontpage
 #
