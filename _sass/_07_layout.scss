@@ -276,6 +276,8 @@ body.video cite { color: #fff; }
     padding-bottom: 20px;
     background: $footer-bg;
     color: $footer-color;
+    width: 100%;
+    margin-top: auto;
     }
 
     #footer a {
@@ -361,3 +363,20 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #main {
+    flex: 1 0 auto;
+  }
+  
+  #footer-content {
+    flex-shrink: 0;
+  }
