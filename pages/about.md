@@ -15,7 +15,7 @@ Community is our core principle as we seek to connect inspired individuals and l
 
 ### Who is it for?
 Everybody is welcome to participate, however most teams are organized at educational institutions e.g. universities or technical colleges in Europe. 
-We do not have an age limit and currently do not require any certificate of enrollment. Feel free to a look at our [regulations](/regulations/) for the official requirements.
+We do not have an age limit and currently do not require any certificate of enrollment. Feel free to take a look at our [regulations](/regulations/) for the official requirements.
 
 ### Some History
 Many of the teams now competing at the CAuDri-Challenge previously participated in the Carolo-Cup, a similar student competition hosted by the *Fakultät für Elektrotechnik, Informationstechnik, Physik* at the *Technische Universität Braunschweig* for many years. 
