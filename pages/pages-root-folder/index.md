@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Join up!"
   url: '/join/'
-  image: widget_mail_302x182.webp
+  image: widget_mail2_302x182.webp
   text: 'Interested? Join our Discord community or subscribe to our mailing list to never miss an update!'
 #
 # Use the call for action to show a button on the frontpage
