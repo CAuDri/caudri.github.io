@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAuDri-Challenge 2023
-subtitle: It was a blast!
+teaser: Looking back at the first ever CAuDri-Challenge, it was a blast!
 #categories: event
 author: Jakob
 banner:
