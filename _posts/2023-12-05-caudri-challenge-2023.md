@@ -4,12 +4,13 @@ title: CAuDri-Challenge 2023
 teaser: Looking back at the first ever CAuDri-Challenge, it was a blast!
 #categories: event
 author: Jakob
-banner:
+
   #video: https://vjs.zencdn.net/v/oceans.mp4
   #äloop: true
   #ävolume: 0.8
   #ästart_at: 8.5
-  image: assets/images/CAuDri-Challenge-2023-Teamfoto.jpg
+image:
+    title: caudri_challenge_2023_teamfoto.jpg
   #opacity: 0.618
   #background: "#000"
   #height: "100vh"
