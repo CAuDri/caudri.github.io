@@ -1,16 +1,12 @@
 ---
 layout: page
 title: CAuDri-Challenge 2023
-teaser: Looking back at the first ever CAuDri-Challenge, it was a blast!
-#categories: event
-author: Jakob
-
-  #video: https://vjs.zencdn.net/v/oceans.mp4
-  #äloop: true
-  #ävolume: 0.8
-  #ästart_at: 8.5
+teaser: Student teams pushed the boundaries of autonomous driving at the inaugural CAuDri Challenge, where miniature self-driving cars went head-to-head in demanding test scenarios. Five teams showcased their engineering prowess through 1:10 scale vehicles, tackling challenges from basic navigation to complex tasks like interpreting traffic signs and maneuvering around obstacles.
+categories: caudri-challenge
+author: Initial draft by Jonas Otto, edited by Jakob Holz
 image:
     title: caudri_challenge_2023_teamfoto.jpg
+    caption: All teams gathered for a group photo after the competition
   #opacity: 0.618
   #background: "#000"
   #height: "100vh"
@@ -20,41 +16,70 @@ image:
 #top: 1
 #sidebar: left
 #tags: [test]
-#published: true
+gallery:
+    - image_url: posts/2023-12-05/car_aachen.webp
+    - image_url: posts/2023-12-05/car_ulm.webp
+    - image_url: posts/2023-12-05/car_kit.webp
+    - image_url: posts/2023-12-05/car_ostfalia.webp
+    - image_url: posts/2023-12-05/car_ostfalia_revealed.webp
+published: true
 ---
 
-On October 7, 2023, after the initial idea in February in Ulm and months of tireless work by the organizing team, the first **Cognitive Autonomous Driving Challenge** took place in Stuttgart.
+After the initial idea in February in Ulm and months of tireless work, the first Cognitive Autonomous Driving Challenge took place in Stuttgart on October 7, 2023.
 Hungry for a test of strength after exhausting years of online competition and the unfortunate end of the Carolo Cup in Braunschweig, the five teams from Aachen, Karlsruhe, Stuttgart, Ulm and Wolfsburg were now able to meet in person again and compete against each other with their autonomous model vehicles.
 
+<img class="t20" src="{{ site.urlimg }}/posts/2023-12-05/track.webp" alt="The race track from above.">
+
 In the new building of the Faculty of Technology at DHBW Stuttgart, a venue was found that offered space for a brand new competition track with all imaginable scenarios and a second test track for parallel last-minute fixes and tests.
+
 The rules for the first CAuDri Challenge were largely adopted from the last Carolo Cup, but with some simplifications to reduce the effort for everyone.
-The Basic and Master Cups were merged and the static disciplines were omitted.
-The competition was also held on just one day.
-After the teams arrived early, the test tracks were soon set up and vehicles were on the road.
-Before the final round, each team was given the opportunity to do a test run on the competition track.
-The referees were also instructed, for which alumni of the participating teams were hired.
+The Basic and Master Cups were merged and the static disciplines were omitted. Instead we presented our cars at the beginning of the event, pointing out changes and talking about challenges we encountered. The competition was also held on just one day, please see the timetable below.
+
+### Agenda 
+- 10:00 : Welcome 
+- 10:30 : Team presentation 
+- 11:00 : Test drives
+- 12:30 : Lunch break 
+- 14:00 : Warm-up 
+- 16:00 : Competition 
+  - Freedrive Course
+  - Obstacle Evasion Course
+- 18:00 : Award ceremony
+
+After the teams arrived early, everybody worked together to set up the location. The test tracks were soon set up and the vehicles were on the road. Volunteers, mostly alumni from the teams, were instructed to act as referees, each covering a part of the track and penalizing errors as per the rules.
+After some testing and obligatory last minute bug fixing we came together for pizza and used the time catch up and brag to each other about new approaches and components we came up in friendly and inspiring manner.
+
+Before the actual competition, each team was given the opportunity to do a final test run on the competition track. 
+
+{% include gallery %}
 
 ## Results
 We congratulate the KITcar team from Karlsruhe on taking first place in the CAuDri Challenge 2023! Second place went to the Spatzenhirn team from Ulm. Third place went to e.Wolf from Wolfsburg, followed by the GalaXIs teams from Aachen and the Smart Rollerz from Stuttgart.
 
 The final rankings are as follows:
 
-1. Team KITcar from KIT Karlsruhe
-- [Video Free Drive](https://www.youtube.com/watch?v=st0euYv1rrA)
-- [Video Obstacle Course](https://www.youtube.com/watch?v=a_kFUvtdE4U)
+- **First Place:** Team KITcar from KIT Karlsruhe
+  - [Video Free Drive](https://www.youtube.com/watch?v=st0euYv1rrA)
+  - [Video Obstacle Course](https://www.youtube.com/watch?v=a_kFUvtdE4U)
 
-2. Team Spatzenhirn from the University of Ulm
-- [Video Free Drive](https://www.youtube.com/watch?v=TuW6jF97eO4)
-- [Video Obstacle Course](https://www.youtube.com/watch?v=Ixp7AYcIOKQ)
+- **Second Place:** Team Spatzenhirn from the University of Ulm
+  - [Video Free Drive](https://www.youtube.com/watch?v=TuW6jF97eO4)
+  - [Video Obstacle Course](https://www.youtube.com/watch?v=Ixp7AYcIOKQ)
 
-3. Team e.Wolf from the Ostfalia University of Applied Sciences in Wolfsburg
+- **Third Place:** Team e.Wolf from the Ostfalia University of Applied Sciences in Wolfsburg
 
-4. Team GalaXIs from RWTH Aachen
+- **Fourth Place:** Team GalaXIs from RWTH Aachen
 
-5. Team Smart Rollerz from DHBW Stuttgart
+- **Fifth Place:** Team Smart Rollerz from DHBW Stuttgart
 
 ## Thank you!
-A few thanks are in order.
+
+A special thank you to:
+
+- All participating teams for their dedication and hard work
+- Our sponsors and supporters
+- The organizing committee and volunteers
+- The host venue and technical staff
 
 Without the work of Yannik, Marc, Jakob, Niko and David there would have been no event. A thousand thanks to you for organizing the location, rules, route, sponsors and merchandise!
 
