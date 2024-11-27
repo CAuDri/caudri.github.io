@@ -18,7 +18,7 @@ gallery:
       caption: e.Wolf team's vehicle from Ostfalia University
     - image_url: posts/2023-12-05/car_ostfalia_revealed.webp
       caption: Inside look at e.Wolf team's autonomous system
-published: true
+published: false
 ---
 
 From an initial idea sparked in Ulm this February to reality in Stuttgart - the first Cognitive Autonomous Driving Challenge (CAuDri) came to life on October 7, 2023. After years of online competitions and the conclusion of the Carolo Cup in Braunschweig, five teams from Aachen, Karlsruhe, Stuttgart, Ulm, and Wolfsburg finally had the chance to compete in person with their autonomous model vehicles.
@@ -37,6 +37,7 @@ The new building of the Faculty of Technology at DHBW Stuttgart proved to be an 
 Building on the legacy of the Carolo Cup, we streamlined the competition rules to create a more focused event. We combined the Basic and Master Cups and replaced the static disciplines with an opening presentation session where teams shared their innovations and development challenges. The entire competition was condensed into a single action-packed day.
 
 ### Agenda 
+
 - 10:00 : Welcome & Opening
 - 10:30 : Team Presentations
 - 11:00 : Test Drives & Adjustments
@@ -52,6 +53,7 @@ The day began with teams arriving early to help set up the venue - a testament t
 {% include gallery %}
 
 ## Results
+
 Congratulations to the winners of the inaugural CAuDri Challenge 2023:
 
 - **🥇 First Place: Team KITcar (KIT Karlsruhe)**

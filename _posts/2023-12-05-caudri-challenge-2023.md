@@ -2,33 +2,37 @@
 layout: page
 title: CAuDri-Challenge 2023
 teaser: Student teams pushed the boundaries of autonomous driving at the inaugural CAuDri Challenge, where miniature self-driving cars went head-to-head in demanding test scenarios. Five teams showcased their engineering prowess through 1:10 scale vehicles, tackling challenges from basic navigation to complex tasks like interpreting traffic signs and maneuvering around obstacles.
-categories: caudri-challenge
+categories: blog
 author: Initial draft by Jonas Otto, edited by Jakob Holz
+header: no
 image:
     title: caudri_challenge_2023_teamfoto.jpg
-    caption: All teams gathered for a group photo after the competition
-  #opacity: 0.618
-  #background: "#000"
-  #height: "100vh"
-  #min_height: "38vh"
-  #heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
-  #subheading_style: "color: gold"
-#top: 1
-#sidebar: left
-#tags: [test]
+    caption: Teams, organizers, and volunteers celebrating the successful completion of the first CAuDri Challenge
 gallery:
     - image_url: posts/2023-12-05/car_aachen.webp
+      caption: Team GalaXIs from RWTH Aachen with their vehicle
     - image_url: posts/2023-12-05/car_ulm.webp
+      caption: Spatzenhirn team's autonomous car from University of Ulm
     - image_url: posts/2023-12-05/car_kit.webp
+      caption: The winning vehicle from KITcar team
     - image_url: posts/2023-12-05/car_ostfalia.webp
-    - image_url: posts/2023-12-05/car_ostfalia_revealed.webp
+      caption: e.Wolf team's vehicle from Ostfalia University
 published: true
 ---
 
 After the initial idea in February in Ulm and months of tireless work, the first Cognitive Autonomous Driving Challenge took place in Stuttgart on October 7, 2023.
-Hungry for a test of strength after exhausting years of online competition and the unfortunate end of the Carolo Cup in Braunschweig, the five teams from Aachen, Karlsruhe, Stuttgart, Ulm and Wolfsburg were now able to meet in person again and compete against each other with their autonomous model vehicles.
+Hungry for a test of strength after exhausting years of online competition and the unfortunate end of the Carolo Cup in Braunschweig, the five teams from Aachen, Karlsruhe, Stuttgart, Ulm and Wolfsburg were now able to meet in person again and compete against each other with their autonomous model vehicles. 
 
-<img class="t20" src="{{ site.urlimg }}/posts/2023-12-05/track.webp" alt="The race track from above.">
+{% include gallery %}
+
+<div class="row">
+    <div class="small-12 columns">
+        <img src="{{ site.urlimg }}/posts/2023-12-05/track.webp" alt="Aerial view of the CAuDri Challenge race track">
+        <p class="text-right caption">
+            The competition track at DHBW Stuttgart featuring various autonomous driving challenges
+        </p>
+    </div>
+</div>
 
 In the new building of the Faculty of Technology at DHBW Stuttgart, a venue was found that offered space for a brand new competition track with all imaginable scenarios and a second test track for parallel last-minute fixes and tests.
 
@@ -51,40 +55,30 @@ After some testing and obligatory last minute bug fixing we came together for pi
 
 Before the actual competition, each team was given the opportunity to do a final test run on the competition track. 
 
-{% include gallery %}
-
 ## Results
-We congratulate the KITcar team from Karlsruhe on taking first place in the CAuDri Challenge 2023! Second place went to the Spatzenhirn team from Ulm. Third place went to e.Wolf from Wolfsburg, followed by the GalaXIs teams from Aachen and the Smart Rollerz from Stuttgart.
+Congratulations to the winners of the inaugural CAuDri Challenge 2023:
 
-The final rankings are as follows:
+- **🥇 First Place: Team KITcar (KIT Karlsruhe)**
+  - Experience their winning runs: [Free Drive Run](https://www.youtube.com/watch?v=st0euYv1rrA) | [Obstacle Course](https://www.youtube.com/watch?v=a_kFUvtdE4U)
 
-- **First Place:** Team KITcar from KIT Karlsruhe
-  - [Video Free Drive](https://www.youtube.com/watch?v=st0euYv1rrA)
-  - [Video Obstacle Course](https://www.youtube.com/watch?v=a_kFUvtdE4U)
+- **🥈 Second Place: Team Spatzenhirn (University of Ulm)**
+  - Watch their performance: [Free Drive Run](https://www.youtube.com/watch?v=TuW6jF97eO4) | [Obstacle Course](https://www.youtube.com/watch?v=Ixp7AYcIOKQ)
 
-- **Second Place:** Team Spatzenhirn from the University of Ulm
-  - [Video Free Drive](https://www.youtube.com/watch?v=TuW6jF97eO4)
-  - [Video Obstacle Course](https://www.youtube.com/watch?v=Ixp7AYcIOKQ)
+- **🥉 Third Place: Team e.Wolf (Ostfalia University of Applied Sciences, Wolfsburg)**
 
-- **Third Place:** Team e.Wolf from the Ostfalia University of Applied Sciences in Wolfsburg
+- **Fourth Place: Team GalaXIs (RWTH Aachen)**
 
-- **Fourth Place:** Team GalaXIs from RWTH Aachen
+- **Fifth Place: Team Smart Rollerz (DHBW Stuttgart)**
 
-- **Fifth Place:** Team Smart Rollerz from DHBW Stuttgart
+## Acknowledgments
 
-## Thank you!
+This event wouldn't have been possible without the dedication of many individuals and organizations:
 
-A special thank you to:
+- The organizing team: Yannik, Marc, Max, Jakob, Niko, David and Jonas who handled everything from venue logistics to sponsorships
+- Our partners at **Bosch** and their invaluable contribution.
+- **Karlsruhe Mobility KAMO** for sponsoring the CAuDri banner
+- **DHBW Stuttgart** for providing an excellent venue
+- All volunteer referees and helpers
+- The participating teams and their supporting institutions
 
-- All participating teams for their dedication and hard work
-- Our sponsors and supporters
-- The organizing committee and volunteers
-- The host venue and technical staff
-
-Without the work of Yannik, Marc, Jakob, Niko and David there would have been no event. A thousand thanks to you for organizing the location, rules, route, sponsors and merchandise!
-
-Thanks to **Bosch**, who financed the work of the organization team with a student trainee position!
-Thanks to **Karlsruhe Mobility KAMO** for sponsoring the large CAuDri banner!
-Thanks to **DHBW Stuttgart** for the wonderful location!
-
-And of course thanks to all participants, teams and their supporters! You made the CAuDri Cup 2023 possible. We hope to see you again next time!
+The success of the first CAuDri Challenge has set a strong foundation for future competitions. We look forward to seeing everyone again at the next event, where we'll continue pushing the boundaries of autonomous driving technology together!
