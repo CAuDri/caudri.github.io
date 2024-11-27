@@ -11,14 +11,13 @@
   url: "/gallery/"
   side: left
 
+- title: "Blog"
+  url: "/blog/"
+  side: left
+
 - title: "Regulations"
   url: "/regulations/"
   side: left
-
-# - title: "Blog"
-#   url: "/blog/"
-#   side: left
-
 
 - title: "Join us!"
   url: "/join/"
