@@ -6,11 +6,6 @@
 - title: "About"
   url: "/about/"
   side: left
-  dropdown:
-  - title: "About Us"
-    url: "/about/"
-  - title: "Regulations"
-    url: "/regulations/"
 
 - title: "Gallery"
   url: "/gallery/"
@@ -20,6 +15,9 @@
   url: "/blog/"
   side: left
 
+- title: "Regulations"
+  url: "/regulations/"
+  side: left
 
 - title: "Join us!"
   url: "/join/"

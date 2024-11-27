@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "CAuDri-Challenge Regulations 2024"
 permalink: "/regulations/"
-pdf_file: "/assets/pdf/CAuDri-Challenge_Regulations_2024.pdf"
+pdf_file: "/documents/CAuDri-Challenge_Regulations_2024.pdf"
 header: no
 ---
 
