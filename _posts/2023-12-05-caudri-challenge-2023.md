@@ -76,7 +76,7 @@ This event wouldn't have been possible without the dedication of many individual
 
 - The organizing team: Yannik, Marc, Max, Jakob, Niko, David and Jonas who handled everything from venue logistics to sponsorships
 - Our partners at **Bosch** and their invaluable contribution.
-- **Karlsruhe Mobility KAMO** for sponsoring the CAuDri banner
+- **Karlsruhe Mobility KAMO** for their financial support.
 - **DHBW Stuttgart** for providing an excellent venue
 - All volunteer referees and helpers
 - The participating teams and their supporting institutions
