@@ -161,6 +161,21 @@
 
             
             
+              <li><a  href="https://www.caudri-challenge.de/blog/">Blog</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
               <li><a  href="https://www.caudri-challenge.de/regulations/">Regulations</a></li>
               <li class="divider"></li>
 
@@ -186,6 +201,14 @@
       
 
       <ul class="right">
+        
+
+              
+
+
+
+          
+          
         
 
               
