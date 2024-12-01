@@ -9,24 +9,21 @@ image:
     title: posts/2024-11-30/team_picture_2024.jpg
     caption: Participants and organizers at the second CAuDri Challenge at DHBW Stuttgart
 gallery:
-    - image_url: posts/2023-12-05/car_aachen.webp
-      caption: Team GalaXIs from RWTH Aachen with their vehicle
-    - image_url: posts/2023-12-05/car_ulm.webp
-      caption: Spatzenhirn team's autonomous car from University of Ulm
-    - image_url: posts/2023-12-05/car_kit.webp
-      caption: The winning vehicle from KITcar team
-    - image_url: posts/2023-12-05/car_ostfalia.webp
-      caption: e.Wolf team's vehicle from Ostfalia University
+    - image_url: posts/2024-11-30/car_uulm.webp
+      caption: Spatzenhirn team's autonomous car from University of Ulm.
+    - image_url: posts/2024-11-30/car_kit.webp
+      caption: The winning vehicle from KITcar team.
+    - image_url: posts/2024-11-30/car_dhbw.webp
+      caption: The hosts vehicle from DHBW Stuttgart.
 published: true
 ---
 
-Waren wir nur drei teams?
-- Ulm, Kit und DHBW?
 
-After the initial idea in February in Ulm and months of tireless work, the first Cognitive Autonomous Driving Challenge took place in Stuttgart on October 7, 2023.
-Hungry for a test of strength after exhausting years of online competition and the unfortunate end of the Carolo Cup in Braunschweig, the five teams from Aachen, Karlsruhe, Stuttgart, Ulm and Wolfsburg were now able to meet in person again and compete against each other with their autonomous model vehicles. 
+This years CAuDri Challenge took place on friday and saturday the 21. and 22. of Juli 2024. Three teams from the south of Germany, namely the team KITCar from Karlsruhe, the Team Spatzenhirn from Ulm and the home team Smart Rollerz from Stuttgart. Building on the success of last year's inaugural event and even though we were less teams then last year, there was more time and space available this time. 
 
-{% include gallery %}
+## The tracks
+
+The main competition track was constructed on site from new material and moved to the front of the venue were better lighting made for brighter pictures but also caused infamous challenges for the cars perception, which the teams had to overcome. The problem with direct sun light is well known withing the community. Where there is light there be shadows and more importantly here, reflections which can throw of the cars lane marking detection and cause it to see markings where there are none leading to cars going off-track.
 
 <div class="row">
     <div class="small-12 columns">
@@ -37,7 +34,7 @@ Hungry for a test of strength after exhausting years of online competition and t
     </div>
 </div>
 
-The second edition of the Cognitive Autonomous Driving Challenge took place on June 21-22, 2024, at DHBW Stuttgart's Faculty of Technology. Building on the success of last year's inaugural event, three university teams came together to compete with their autonomous model vehicles.
+### The stars of the show
 
 {% include gallery %}
 
