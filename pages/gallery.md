@@ -16,6 +16,8 @@ gallery:
     - image_url: gallery/examples/caudri_example_8.jpg
     - image_url: gallery/examples/caudri_example_9.jpg
     - image_url: gallery/examples/caudri_example_10.jpg
+    - image_url: gallery/examples/caudri_example_11.jpg
+    - image_url: gallery/examples/caudri_example_12.jpg
 ---
 
 {% include gallery %}
