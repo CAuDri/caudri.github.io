@@ -195,6 +195,12 @@
           
           
         
+
+              
+
+          
+          
+        
         
       </ul>
       
@@ -240,6 +246,22 @@
 
 
           
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://www.caudri-challenge.de/newsletter/">Newsletter</a></li>
+
+            
+            
           
         
 
