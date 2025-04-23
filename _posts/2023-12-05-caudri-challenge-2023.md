@@ -2,7 +2,7 @@
 layout: page
 title: CAuDri-Challenge 2023
 teaser: Student teams pushed the boundaries of autonomous driving at the inaugural CAuDri Challenge, where miniature self-driving cars went head-to-head in demanding test scenarios. Five teams showcased their engineering prowess through 1:10 scale vehicles, tackling challenges from basic navigation to complex tasks like interpreting traffic signs and maneuvering around obstacles.
-categories: blog
+categories: SEASON-2023
 author: Initial draft by Jonas Otto, edited by Jakob Holz
 header: no
 image:
