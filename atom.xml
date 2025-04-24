@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://www.caudri-challenge.de/</id>
 	<title>CAuDri-Challenge</title>
-	<updated>2025-01-23T23:37:02+00:00</updated>
+	<updated>2025-04-24T21:28:26+00:00</updated>
 
 	<subtitle>Official website of the Cognitive Autonomous Driving Challenge - Hosted and maintained by CAuDri e.V.</subtitle>
 
@@ -26,9 +26,176 @@
 
 	
 		<entry>
-			<id>https://www.caudri-challenge.de/blog/caudri-challenge-2023/</id>
+			<id>https://www.caudri-challenge.de/season-2024/caudri-challenge-2024/</id>
+			<title>CAuDri-Challenge 2024</title>
+			<link href="https://www.caudri-challenge.de/season-2024/caudri-challenge-2024/" rel="alternate" type="text/html" title="CAuDri-Challenge 2024" />
+			<updated>2025-04-23T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>by Jakob Holz</name>
+					
+					
+					
+				</author>
+			
+			<summary>The 2024 CAuDri-Challenge took place on Friday 21st and Saturday 22nd of July, featuring three teams from southern Germany, KITCar from Karlsruhe, Spatzenhirn from Ulm, and the home team Smart Rollerz from Stuttgart.</summary>
+			<content type="html" xml:base="https://www.caudri-challenge.de/season-2024/caudri-challenge-2024/">&lt;p&gt;Building on the success of last year’s inaugural event, we relaxed the schedule over two days and provided more opportunities for the teams to test their vehicles.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-tracks&quot;&gt;The Tracks&lt;/h2&gt;
+
+&lt;p&gt;The main competition track was constructed on site from new material and moved to the front of the venue, where better lighting made for brighter pictures but also caused infamous challenges for the cars perception. The problem of direct sunlight is well known within the community. Where there is light, there be shadows. And more importantly here, reflections which can throw off the cars lane marking detection, possibly leading to derailment, which the teams had to overcome.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 medium-6 columns&quot;&gt;
+        &lt;img src=&quot;/images//posts/2024-11-30/test_track_1.jpg&quot; alt=&quot;Test track No.1&quot; /&gt;
+        &lt;p class=&quot;text-right caption&quot;&gt;
+            Test track No.1
+        &lt;/p&gt;
+        &lt;img src=&quot;/images//posts/2024-11-30/caudri_example_12.jpg&quot; alt=&quot;Setup, the first day.&quot; /&gt;
+        &lt;p class=&quot;text-right caption&quot;&gt;
+            Setup, the first day.
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 columns&quot;&gt;
+        &lt;img src=&quot;/images//posts/2024-11-30/test_track_2.jpg&quot; alt=&quot;Test track No.2&quot; /&gt;
+        &lt;p class=&quot;text-right caption&quot;&gt;
+            Test track No.2
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;the-vehicles&quot;&gt;The vehicles&lt;/h3&gt;
+
+&lt;p&gt;The stars of the show.&lt;/p&gt;
+
+&lt;div&gt;
+	&lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;/images/posts/2024-11-30/car_uulm.webp&quot;&gt;&lt;img data-caption=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm.&quot; src=&quot;/images/posts/2024-11-30/car_uulm-thumb.webp&quot; alt=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm.&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;/images/posts/2024-11-30/car_kit.webp&quot;&gt;&lt;img data-caption=&quot;The winning vehicle from KITcar team.&quot; src=&quot;/images/posts/2024-11-30/car_kit-thumb.webp&quot; alt=&quot;The winning vehicle from KITcar team.&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;/images/posts/2024-11-30/car_dhbw.webp&quot;&gt;&lt;img data-caption=&quot;The hosts vehicle from DHBW Stuttgart.&quot; src=&quot;/images/posts/2024-11-30/car_dhbw-thumb.webp&quot; alt=&quot;The hosts vehicle from DHBW Stuttgart.&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;The competition was extended to two days this year, allowing the teams to test their vehicles more thoroughly before the competition and adjust to the track and environmental conditions. Friday served as a setup and practice day, while the official competition took place on Saturday. Each team had time slots for test runs and competition attempts assigned to them, ensuring fair and organized proceedings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Friday, June 21&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;10:00 : Arrival and setup&lt;/li&gt;
+  &lt;li&gt;11:00 : Welcome and organizational briefing&lt;/li&gt;
+  &lt;li&gt;11:30 : Free test drives&lt;/li&gt;
+  &lt;li&gt;15:00 : Practice competition
+    &lt;ul&gt;
+      &lt;li&gt;Freedrive Course&lt;/li&gt;
+      &lt;li&gt;Obstacle Evasion Course&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;17:30 : Score evaluation and feedback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Saturday, June 22&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;10:30 : Official opening&lt;/li&gt;
+  &lt;li&gt;11:00 : Team presentations and test drives&lt;/li&gt;
+  &lt;li&gt;12:30 : Lunch break&lt;/li&gt;
+  &lt;li&gt;13:30 : Final test sessions&lt;/li&gt;
+  &lt;li&gt;15:00 : Competition
+    &lt;ul&gt;
+      &lt;li&gt;Freedrive Course&lt;/li&gt;
+      &lt;li&gt;Obstacle Evasion Course&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;17:30 : Award ceremony&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Team KITcar remains firmly at the top of the leader board, for the second time in a row, they demonstrated their superior drive performance and showed how to master difficult road incidents with confidence. Relying on their teams legacy and man power, they show what it takes to be the best. While the champion’s runs are certainly a joy to look at (see links below), we must also admire the underdogs brave commitment to face off against the colossus even with the odds stacked against them.
+Congratulations to this year’s winners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;🥇 First Place: Team KITcar (KIT Karlsruhe)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;Experience their winning runs: &lt;a href=&quot;https://www.youtube.com/watch?v=NOfQelGuanc&quot;&gt;Free Drive Run&lt;/a&gt;&lt;/td&gt;
+              &lt;td&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3qgEeE0ZR00&quot;&gt;Obstacle Course&lt;/a&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;🥈 Second Place: Team Spatzenhirn (University of Ulm)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;Watch their performance: &lt;a href=&quot;https://www.youtube.com/watch?v=btJJQcRVPtM&quot;&gt;Free Drive Run&lt;/a&gt;&lt;/td&gt;
+              &lt;td&gt;&lt;a href=&quot;nA&quot;&gt;Obstacle Course&lt;/a&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;🥉 Third Place: Team Smart Rollerz (DHBW Stuttgart)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;looking-forward&quot;&gt;Looking Forward&lt;/h2&gt;
+
+&lt;p&gt;The success of the second CAuDri-Challenge has further established this competition in the autonomous driving education landscape. At the Faculty of Technology at DHBW Stuttgart, a venue was found that offers plenty of space for multiple tracks, tinkering and spectators, we hope to continue to host the CAuDri-Challenge there. We’re already looking forward to next year’s event and welcome interested teams to join us for the 2025 competition.&lt;/p&gt;
+
+&lt;p&gt;Teams interested in participating next year can join our &lt;a href=&quot;/discord/&quot;&gt;Discord server&lt;/a&gt; or contact us at &lt;a href=&quot;mailto:kontakt@caudri-challenge.de&quot;&gt;kontakt@caudri-challenge.de&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;h2 id=&quot;acknowledgments&quot;&gt;Acknowledgments&lt;/h2&gt;
+
+&lt;p&gt;This event wouldn’t have been possible without the dedication of many individuals and organizations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DHBW Stuttgart for hosting us in their Faculty of Technology&lt;/li&gt;
+  &lt;li&gt;The participating teams and their supporting institutions&lt;/li&gt;
+  &lt;li&gt;Micha and his team from “Coffee on Tour” for providing tasty engineering fuel&lt;/li&gt;
+  &lt;li&gt;Everyone who contributed to the refreshments and catering&lt;/li&gt;
+  &lt;li&gt;All referees who volunteered to ensure a fair competition&lt;/li&gt;
+  &lt;li&gt;All spectators who came to support the teams&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The success of the first CAuDri-Challenge has set a strong foundation for future competitions. We look forward to seeing everyone again at the next event, where we’ll continue pushing the boundaries of autonomous driving technology together!&lt;/p&gt;
+
+</content>
+
+			
+				<category term="Season-2024" />
+			
+			
+
+			<published>2025-04-23T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://www.caudri-challenge.de/season-2023/caudri-challenge-2023/</id>
 			<title>CAuDri-Challenge 2023</title>
-			<link href="https://www.caudri-challenge.de/blog/caudri-challenge-2023/" rel="alternate" type="text/html" title="CAuDri-Challenge 2023" />
+			<link href="https://www.caudri-challenge.de/season-2023/caudri-challenge-2023/" rel="alternate" type="text/html" title="CAuDri-Challenge 2023" />
 			<updated>2023-12-05T00:00:00+00:00</updated>
 
 			
@@ -42,7 +209,7 @@
 				</author>
 			
 			<summary>Student teams pushed the boundaries of autonomous driving at the inaugural CAuDri Challenge, where miniature self-driving cars went head-to-head in demanding test scenarios. Five teams showcased their engineering prowess through 1:10 scale vehicles, tackling challenges from basic navigation to complex tasks like interpreting traffic signs and maneuvering around obstacles.</summary>
-			<content type="html" xml:base="https://www.caudri-challenge.de/blog/caudri-challenge-2023/">&lt;p&gt;After the initial idea in February in Ulm and months of tireless work, the first Cognitive Autonomous Driving Challenge took place in Stuttgart on October 7, 2023.
+			<content type="html" xml:base="https://www.caudri-challenge.de/season-2023/caudri-challenge-2023/">&lt;p&gt;After the initial idea in February in Ulm and months of tireless work, the first Cognitive Autonomous Driving Challenge took place in Stuttgart on October 7, 2023.
 Hungry for a test of strength after exhausting years of online competition and the unfortunate end of the Carolo Cup in Braunschweig, the five teams from Aachen, Karlsruhe, Stuttgart, Ulm and Wolfsburg were now able to meet in person again and compete against each other with their autonomous model vehicles.&lt;/p&gt;
 
 &lt;div&gt;
@@ -164,7 +331,7 @@ After some testing and obligatory last minute bug fixing we came together for pi
 </content>
 
 			
-				<category term="blog" />
+				<category term="SEASON-2023" />
 			
 			
 
