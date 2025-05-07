@@ -45,8 +45,7 @@ permalink: /index.html
 #
 homepage: true
 ---
-## Welcome to the Cognitive Autonomous Driving Challenge!
-Our website is currently under construction. Check back soon for updates!
+
 
 
 
