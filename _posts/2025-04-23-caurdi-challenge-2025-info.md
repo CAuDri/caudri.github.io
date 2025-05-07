@@ -75,7 +75,7 @@ This year we should do the same on our website. We could embedd another Google F
 ## Volunteer Registration
 
 If you could lend a hand, that would be awesome. Together, we can make it happen!
-Please let us know how you would like to help out, by filing out this google form:
+Please let us know how you would like to help out, by filling out this google form:
 
 ### [Volunteer Registration](https://forms.gle/YMDLfcXbF4knbKPb7) 
 
