@@ -1,0 +1,46 @@
+{% comment %}
+Visitor registration form for the CAuDri Challenge 2025.
+Visitors can enter their name and the number of accompanying persons.
+The form is automatically submitted to a Google Form for data collection.
+
+Can be included on any page using:
+{% include visitor-registration %}
+
+{% endcomment %}
+
+{% assign form_url =
+"https://docs.google.com/forms/d/e/1FAIpQLSe2E-fN-gUCp3gBvfpfBC5Jcm5Hx5XO4gYpBy-6IjudE5HfYA/formResponse" %}
+{% assign name_entry = "entry.681551232" %}
+{% assign guests_entry = "entry.1438469203" %}
+{% assign privacy_entry = "entry.1887196386" %}
+{% assign privacy_value = "Ich habe die Hinweise zum Datenschutz gelesen und bin damit einverstanden" %}
+{% assign privacy_policy_url = "/documents/Datenschutzerkl%C3%A4rung_CAuDri-Challenge.pdf" %}
+{% assign photo_policy_url = "/documents/Hinweise_Fotos_Videos.pdf" %}
+
+<div class="panel radius">
+      <h2>Visitor Registration</h2>
+      <form action="{{ form_url }}" target="_blank" id="visitor-registration-form" method="post">
+            <label for="full_name">Full Name*</label>
+            <input type="text" class="radius" id="full_name" name="{{ name_entry }}" placeholder="First and Last Name"
+                  required>
+
+            <label for="guests">Number of accompanying persons</label>
+            <input type="number" class="radius" id="guests" name="{{ guests_entry }}" min="0" placeholder="0" value="0">
+
+            <p class="privacy-policy">
+                  <strong>Privacy Policy Notice:</strong><br>
+                  Your registration is non-binding and only used for planning purposes. We will only store your data up
+                  until the event, will not share it with any third parties or use it for any other purposes.<br>
+                  During the event, our <a href="{{ privacy_policy_url }}" target="_blank">privacy policy</a> and the
+                  <a href="{{ photo_policy_url }}" target="_blank">notes on photo and video recordings</a> apply.
+            </p>
+
+            <div class="form-footer">
+                  <label class="checkbox">
+                        <input type="checkbox" id="privacy" name="{{ privacy_entry }}" value="{{ privacy_value }}"
+                              required> I have read and agree to the privacy policy*
+                  </label>
+                  <button type="submit" class="button tiny radius">Submit</button>
+            </div>
+      </form>
+</div>
