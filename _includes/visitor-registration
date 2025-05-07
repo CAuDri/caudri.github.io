@@ -18,7 +18,7 @@ Can be included on any page using:
 {% assign photo_policy_url = "/documents/Hinweise_Fotos_Videos.pdf" %}
 
 <div class="panel radius">
-      <h2>Visitor Registration</h2>
+      <h3>Visitor Registration</h3>
       <form action="{{ form_url }}" target="_blank" id="visitor-registration-form" method="post">
             <label for="full_name">Full Name*</label>
             <input type="text" class="radius" id="full_name" name="{{ name_entry }}" placeholder="First and Last Name"
