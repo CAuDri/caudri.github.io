@@ -25,22 +25,22 @@ published: true
 
 Schedule for visitors on Saturday, 17.05:
 
-    13:00 - Opening 
-    13:30 - Team Introduction
-    14:00 - Final Test Run
-    15:00 - Competition
-    19:00 - Award Ceremony
+13:00 - Opening 
+13:30 - Team Introduction
+14:00 - Final Test Run
+15:00 - Competition
+19:00 - Award Ceremony
 
 Participants and volunteers arrive one day prior, their schedule is:
 
 Friday, 16.05:
 
-    09:00 - Arrival
-    10:30 - Open Track Test Run
-    12:00 - Lunch 
-    13:00 - Team Meeting
-    14:00 - Scheduled Test Runs
-    19:00 - Socializing
+09:00 - Arrival
+10:30 - Open Track Test Run
+12:00 - Lunch 
+13:00 - Team Meeting
+14:00 - Scheduled Test Runs
+19:00 - Socializing
 
 Saturday, 17.05:
 ```
