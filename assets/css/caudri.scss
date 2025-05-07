@@ -1,0 +1,28 @@
+// 
+// Additional styles for the CAuDri Website
+//
+
+// Definitions for the Visitor Registration Form
+// -------------------------------------------------------------
+.privacy-policy {
+    font-size: 0.8em;
+}
+
+.form-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.form-footer .checkbox {
+    margin: 0;
+    flex: 1 1 auto;
+}
+
+.form-footer button {
+    flex: 0 0 auto;
+}
+// -------------------------------------------------------------
