@@ -10,10 +10,15 @@ published: true
 
 ## Where? 
 
-Fakultät Technik  
-DHBW Stuttgart  
-Lerchenstraße 1  
-70174 Stuttgart  
+<div class="row">
+    <div class="small-12 columns">
+        <img src="{{ site.urlimg }}/posts/2025-04-23/building_plan_transparent.webp" alt="Building Plan DHBW Stuttgart">
+        <p class="text-right caption">
+            Fakultät Technik, DHBW Stuttgart, Lerchenstraße 1, 70174 Stuttgart  
+        </p>
+    </div>
+</div>
+
  <!-- https://github.com/ayastreb/jekyll-maps, would be a nice addition imo. -->
 
 ## When? 
