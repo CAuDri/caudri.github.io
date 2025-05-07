@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://www.caudri-challenge.de/</id>
 	<title>CAuDri-Challenge</title>
-	<updated>2025-04-24T21:28:26+00:00</updated>
+	<updated>2025-05-07T22:47:30+00:00</updated>
 
 	<subtitle>Official website of the Cognitive Autonomous Driving Challenge - Hosted and maintained by CAuDri e.V.</subtitle>
 
@@ -24,6 +24,126 @@
 
 	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://www.caudri-challenge.de/season-2025/caurdi-challenge-2025-info/</id>
+			<title>CAuDri-Challenge 2025 - Pre-Event Information</title>
+			<link href="https://www.caudri-challenge.de/season-2025/caurdi-challenge-2025-info/" rel="alternate" type="text/html" title="CAuDri-Challenge 2025 - Pre-Event Information" />
+			<updated>2025-04-23T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jakob Holz</name>
+					
+					
+					
+				</author>
+			
+			<summary>This years CAuDri-Challenge is moving closer. Here is some important information for anybody attending, visitors, volunteers and teammembers.</summary>
+			<content type="html" xml:base="https://www.caudri-challenge.de/season-2025/caurdi-challenge-2025-info/">&lt;h2 id=&quot;where&quot;&gt;Where?&lt;/h2&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 columns&quot;&gt;
+        &lt;img src=&quot;/images//posts/2025-04-23/building_plan_v2.svg&quot; alt=&quot;Building Plan DHBW Stuttgart&quot; /&gt;
+        &lt;p class=&quot;text-right caption&quot;&gt;
+            Fakultät Technik, DHBW Stuttgart, Lerchenstraße 1, 70174 Stuttgart  
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- https://github.com/ayastreb/jekyll-maps, would be a nice addition imo. --&gt;
+
+&lt;h2 id=&quot;when&quot;&gt;When?&lt;/h2&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 medium-6 columns&quot;&gt;
+        &lt;h3&gt;Participant Schedule&lt;/h3&gt;
+        &lt;h4&gt;Friday, 16.05:&lt;/h4&gt;
+        &lt;ul class=&quot;no-bullet&quot;&gt;
+            &lt;li&gt;09:00 - Arrival&lt;/li&gt;
+            &lt;li&gt;10:30 - Open Track Test Run&lt;/li&gt;
+            &lt;li&gt;12:00 - Lunch&lt;/li&gt;
+            &lt;li&gt;13:00 - Team Meeting&lt;/li&gt;
+            &lt;li&gt;14:00 - Scheduled Test Runs&lt;/li&gt;
+            &lt;li&gt;19:00 - Socializing&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h4&gt;Saturday, 17.05:&lt;/h4&gt;
+        &lt;ul class=&quot;no-bullet&quot;&gt;
+            &lt;li&gt;08:00 - Arrival&lt;/li&gt;
+            &lt;li&gt;09:00 - General Meeting&lt;/li&gt;
+            &lt;li&gt;09:30 - Team Photoshoot&lt;/li&gt;
+            &lt;li&gt;10:00 - Scheduled Test Runs&lt;/li&gt;
+            &lt;li&gt;12:00 - Lunch&lt;/li&gt;
+            &lt;li&gt;13:00 - Opening&lt;/li&gt;
+            &lt;li&gt;13:30 - Team Introduction&lt;/li&gt;
+            &lt;li&gt;14:00 - Final Test Run&lt;/li&gt;
+            &lt;li&gt;15:00 - Freedrive Competition&lt;/li&gt;
+            &lt;li&gt;16:15 - Obstacle Evasion Competition&lt;/li&gt;
+            &lt;li&gt;17:30 - Navigation Competition&lt;/li&gt;
+            &lt;li&gt;19:00 - Award Ceremony&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 columns&quot;&gt;
+        &lt;h3&gt;Visitor Schedule on Saturday, 17.05:&lt;/h3&gt;
+        &lt;ul class=&quot;no-bullet&quot;&gt;
+            &lt;li&gt;13:00 - Opening&lt;/li&gt;
+            &lt;li&gt;13:30 - Team Introduction&lt;/li&gt;
+            &lt;li&gt;14:00 - Final Test Run&lt;/li&gt;
+            &lt;li&gt;15:00 - Competition&lt;/li&gt;
+            &lt;li&gt;19:00 - Award Ceremony&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;visitor-registration&quot;&gt;Visitor Registration&lt;/h2&gt;
+
+&lt;p&gt;If you are planning to attend the event, please let us know by filling out the form below. This helps us in planning the event and is highly appreciated, thank you.&lt;/p&gt;
+
+&lt;div class=&quot;panel radius&quot;&gt;
+      &lt;h3&gt;Visitor Registration&lt;/h3&gt;
+      &lt;form action=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe2E-fN-gUCp3gBvfpfBC5Jcm5Hx5XO4gYpBy-6IjudE5HfYA/formResponse&quot; target=&quot;_blank&quot; id=&quot;visitor-registration-form&quot; method=&quot;post&quot;&gt;
+            &lt;label for=&quot;full_name&quot;&gt;Full Name*&lt;/label&gt;
+            &lt;input type=&quot;text&quot; class=&quot;radius&quot; id=&quot;full_name&quot; name=&quot;entry.681551232&quot; placeholder=&quot;First and Last Name&quot; required=&quot;&quot; /&gt;
+
+            &lt;label for=&quot;guests&quot;&gt;Number of accompanying persons&lt;/label&gt;
+            &lt;input type=&quot;number&quot; class=&quot;radius&quot; id=&quot;guests&quot; name=&quot;entry.1438469203&quot; min=&quot;0&quot; placeholder=&quot;0&quot; value=&quot;0&quot; /&gt;
+
+            &lt;p class=&quot;privacy-policy&quot;&gt;
+                  &lt;strong&gt;Privacy Policy Notice:&lt;/strong&gt;&lt;br /&gt;
+                  Your registration is non-binding and only used for planning purposes. We will only store your data up
+                  until the event, will not share it with any third parties or use it for any other purposes.&lt;br /&gt;
+                  During the event, our &lt;a href=&quot;/documents/Datenschutzerkl%C3%A4rung_CAuDri-Challenge.pdf&quot; target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt; and the
+                  &lt;a href=&quot;/documents/Hinweise_Fotos_Videos.pdf&quot; target=&quot;_blank&quot;&gt;notes on photo and video recordings&lt;/a&gt; apply.
+            &lt;/p&gt;
+
+            &lt;div class=&quot;form-footer&quot;&gt;
+                  &lt;label class=&quot;checkbox&quot;&gt;
+                        &lt;input type=&quot;checkbox&quot; id=&quot;privacy&quot; name=&quot;entry.1887196386&quot; value=&quot;Ich habe die Hinweise zum Datenschutz gelesen und bin damit einverstanden&quot; required=&quot;&quot; /&gt; I have read and agree to the privacy policy*
+                  &lt;/label&gt;
+                  &lt;button type=&quot;submit&quot; class=&quot;button tiny radius&quot;&gt;Submit&lt;/button&gt;
+            &lt;/div&gt;
+      &lt;/form&gt;
+&lt;/div&gt;
+
+&lt;!-- Last year the DHBW had a registration form for visitors on their own homepage.
+This year we should do the same on our website. We could embedd another Google Form on a subpage, which would probably be the easiest solution.I&apos;ll send you a link to the registration form for volunteers, as soon as it is finished. --&gt;
+
+&lt;h2 id=&quot;volunteer-registration&quot;&gt;Volunteer Registration&lt;/h2&gt;
+
+&lt;p&gt;If you could lend a hand, that would be awesome. Together, we can make it happen!
+Please let us know how you would like to help out, by filling out this google form:&lt;/p&gt;
+
+&lt;h3 id=&quot;volunteer-registration-1&quot;&gt;&lt;a href=&quot;https://forms.gle/YMDLfcXbF4knbKPb7&quot;&gt;Volunteer Registration&lt;/a&gt;&lt;/h3&gt;
+</content>
+
+			
+				<category term="season-2025" />
+			
+			
+
+			<published>2025-04-23T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://www.caudri-challenge.de/season-2024/caudri-challenge-2024/</id>

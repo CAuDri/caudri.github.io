@@ -161,7 +161,7 @@
 
             
             
-              <li><a  href="https://www.caudri-challenge.de/blog/">Blog</a></li>
+              <li><a  href="https://www.caudri-challenge.de/blog/">Posts</a></li>
               <li class="divider"></li>
 
             
@@ -274,7 +274,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://www.caudri-challenge.de/join/">Join us!</a></li>
+              <li><a  href="https://www.caudri-challenge.de/join/">Join Up!</a></li>
 
             
             
