@@ -12,7 +12,7 @@ published: true
 
 <div class="row">
     <div class="small-12 columns">
-        <img src="{{ site.urlimg }}/posts/2025-04-23/building_plan_transparent.webp" alt="Building Plan DHBW Stuttgart">
+        <img src="{{ site.urlimg }}/posts/2025-04-23/building_plan_v2.svg" alt="Building Plan DHBW Stuttgart">
         <p class="text-right caption">
             Fakultät Technik, DHBW Stuttgart, Lerchenstraße 1, 70174 Stuttgart  
         </p>
