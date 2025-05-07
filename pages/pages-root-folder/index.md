@@ -14,13 +14,13 @@ widget1:
   image: widget_teamphoto_453x273.webp
   text: 'Who we are and what the CAuDri-Challenge is all about. Learn some of our history and future plans.'
 widget2:
-  title: "Get an impression!"
+  title: "Get an Impression!"
   url: '/gallery/'
   image: widget_gallery_453x273.webp
   text: 'Take a look at our previous CAuDri-Challenge events.'
 # VIDEOS ARE ALSO POSSIBLE HERE!  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Join up!"
+  title: "Join Up!"
   url: '/join/'
   image: widget_mail2_302x182.webp
   text: 'Interested? Join our Discord community or subscribe to our mailing list to never miss an update!'
