@@ -18,45 +18,50 @@ published: true
         </p>
     </div>
 </div>
-
- <!-- https://github.com/ayastreb/jekyll-maps, would be a nice addition imo. -->
+<!-- https://github.com/ayastreb/jekyll-maps, would be a nice addition imo. -->
 
 ## When? 
 
-Schedule for visitors on Saturday, 17.05:
+<div class="row">
+    <div class="small-12 medium-6 columns">
+        <h3>Participant Schedule</h3>
+        <h4>Friday, 16.05:</h4>
+        <ul class="no-bullet">
+            <li>09:00 - Arrival</li>
+            <li>10:30 - Open Track Test Run</li>
+            <li>12:00 - Lunch</li>
+            <li>13:00 - Team Meeting</li>
+            <li>14:00 - Scheduled Test Runs</li>
+            <li>19:00 - Socializing</li>
+        </ul>
+        <h4>Saturday, 17.05:</h4>
+        <ul class="no-bullet">
+            <li>08:00 - Arrival</li>
+            <li>09:00 - General Meeting</li>
+            <li>09:30 - Team Photoshoot</li>
+            <li>10:00 - Scheduled Test Runs</li>
+            <li>12:00 - Lunch</li>
+            <li>13:00 - Opening</li>
+            <li>13:30 - Team Introduction</li>
+            <li>14:00 - Final Test Run</li>
+            <li>15:00 - Freedrive Competition</li>
+            <li>16:15 - Obstacle Evasion Competition</li>
+            <li>17:30 - Navigation Competition</li>
+            <li>19:00 - Award Ceremony</li>
+        </ul>
+    </div>
+    <div class="small-12 medium-6 columns">
+        <h3>Visitor Schedule on Saturday, 17.05:</h3>
+        <ul class="no-bullet">
+            <li>13:00 - Opening</li>
+            <li>13:30 - Team Introduction</li>
+            <li>14:00 - Final Test Run</li>
+            <li>15:00 - Competition</li>
+            <li>19:00 - Award Ceremony</li>
+        </ul>
+    </div>
+</div>
 
-13:00 - Opening 
-13:30 - Team Introduction
-14:00 - Final Test Run
-15:00 - Competition
-19:00 - Award Ceremony
-
-Participants and volunteers arrive one day prior, their schedule is:
-
-Friday, 16.05:
-
-09:00 - Arrival
-10:30 - Open Track Test Run
-12:00 - Lunch 
-13:00 - Team Meeting
-14:00 - Scheduled Test Runs
-19:00 - Socializing
-
-Saturday, 17.05:
-```
-08:00 - Arrival  
-09:00 - General Meeting  
-09:30 - Team Photoshoot  
-10:00 - Scheduled Test Runs  
-12:00 - Lunch  
-13:00 - Opening  
-13:30 - Team Introduction  
-14:00 - Final Test Run  
-15:00 - Freedrive Competition  
-16:15 - Obstacle Evasion Competition  
-17:30 - Navigation Competition  
-19:00 - Award Ceremony  
-```
 ## Visitor Registration
 
 If you are planning to visit the event, please let us know by entering the formula below.
