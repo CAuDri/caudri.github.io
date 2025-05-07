@@ -64,8 +64,10 @@ published: true
 
 ## Visitor Registration
 
-If you are planning to visit the event, please let us know by entering the formula below.
-This helps us in planning the event and is highly appreciated, thank you.
+If you are planning to attend the event, please let us know by filling out the form below. This helps us in planning the event and is highly appreciated, thank you.
+
+
+{% include visitor-registration %}
 
 <!-- Last year the DHBW had a registration form for visitors on their own homepage.
 This year we should do the same on our website. We could embedd another Google Form on a subpage, which would probably be the easiest solution.I'll send you a link to the registration form for volunteers, as soon as it is finished. -->

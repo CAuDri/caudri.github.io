@@ -10,7 +10,15 @@ Based on [Jekyll](https://jekyllrb.com/) and the [Feeling Responsive Theme](http
 2. Install Jekyll: `gem install jekyll`
 3. Clone this repository
 4. Run `bundle install` in the repository directory
-5. Run `bundle exec jekyll serve` to start the development server
+5. Run `bundle exec jekyll serve` to start the web-server (localhost) and serve the page.
+
+On a brand new Ubuntu 24.04 LTS (WSL) install, this process might look more like:
+
+0. Update package list: `apt-get update`
+1. make and gcc are required, install build-essentials: `sudo apt-get install build-essential`
+2. Install Ruby development package (includes RubyGems): `sudo apt-get install ruby-dev`
+3. Since rubygems installs gems under `/var/lib/gems/` by default, which is a system directory. You will have to either run `sudo gem install jekyll`, use RVM or install them in your home directory if you want to avoid having to use `sudo` every time your run `bundler`. Which is not recommended, as installing your bundle as root will break this application for all non-root users on your machine.
+4. Run `sudo bundle exec jekyll serve` to start the web-server (localhost) and serve the page.
 
 
 # Images
