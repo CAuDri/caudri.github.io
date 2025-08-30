@@ -7,27 +7,19 @@ author: by Marc and Jakob
 header: no
 date: 2025-05-20
 image:
-    title: posts/2025-05-20/team_picture_2025.jpg
+    title: posts/2025-08-30/team_picture_2025.jpg
     caption: Teams, organizers, and volunteers celebrating the successful completion of the third CAuDri Challenge
-gallery:
-    - image_url: posts/2025-05-20/car_ostfalia.webp
-      caption: Team Ostfalia-Cup from Wolfenbüttel with their lightweight 3D-printed vehicles "Cup" and "Pot"
-    - image_url: posts/2025-05-20/car_spatzenhirn.webp
-      caption: Spatzenhirn's "Spatz 11" featuring their distinctive monitor display and dual-axis Stanley controller
-    - image_url: posts/2025-05-20/car_kit.webp
-      caption: KITcar's "Miss Magic" with 10 years of experience, depth camera, and digital differential
-    - image_url: posts/2025-05-20/car_smart_rollerz.webp
-      caption: Smart Rollerz's "Smarty" - completely rebuilt each year as part of student project work
-published: false
+published: true
 ---
 
 The third CAuDri-Challenge took place on May 16-17, 2025, marking a significant milestone with the presentation of the new Navigation discipline - a challenge designed to test vehicles' ability to find their way through complex environments without predefined paths. While no teams participated in Navigation this year, we introduced the concept to prepare for future competitions. For the first time, we welcomed Team Ostfalia from Wolfenbüttel, joining our returning champions and creating the most competitive field yet.
 
-{% include gallery %}
+{% include image-gallery.html folder="/images/posts/2025-08-30/gallery_0" %}
 
 <div class="row">
+
     <div class="small-12 columns">
-        <img src="{{ site.urlimg }}/posts/2025-05-20/track_overview.webp" alt="Aerial view of the two competition tracks at DHBW Stuttgart">
+        <img src="{{ site.urlimg }}/posts/2025-08-30/track.webp" alt="Aerial view of the two competition tracks at DHBW Stuttgart">
         <p class="text-right caption">
             The 2025 competition featured two active tracks: Freedrive and Obstacle Evasion, with Navigation presented for future implementation
         </p>
