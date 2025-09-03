@@ -10,7 +10,7 @@ date: 2025-05-20
 #     title: posts/2025-08-30/team_picture_2025.jpg
 #     caption: Teams, organizers, and volunteers celebrating the successful completion of the third CAuDri Challenge
 published: true
-galleries:
+gallery:
   # event_overview:
   #   - image_url: posts/2025-08-30/event_overview/DSC06980.jpg
   #     caption: Teams, organizers, and volunteers celebrating the successful completion of the third CAuDri Challenge
@@ -19,15 +19,19 @@ galleries:
   #   - image_url: posts/2025-08-30/competition_setup.webp
   #     caption: The 2025 competition featured two active tracks with comprehensive testing facilities
   
-  team_vehicles:
-    - image_url: posts/2025-08-30/team_vehicles/car-ostfalia.webp
-      caption: Team Ostfalia's "Cup" vehicle featuring lightweight 3D-printed construction
-    - image_url: posts/2025-08-30/team_vehicles/car-ulm.webp
-      caption: Team Spatzenhirn's "Spatz 11" with distinctive onboard monitor
-    - image_url: posts/2025-08-30/team_vehicles/car-kit.webp
-      caption: Team KITcar's "Miss Magic" with hub wheel motors and digital differential
-    - image_url: posts/2025-08-30/team_vehicles/car-dhbw.webp
-      caption: Team Smart Rollerz's "Smarty" featuring annual complete rebuild design
+  # team_vehicles:
+  - image_url: posts/2025-08-30/team_vehicles/car-ostfalia.webp
+    caption: Team Ostfalia's "Cup" vehicle featuring lightweight 3D-printed construction
+    section: team_vehicles
+  - image_url: posts/2025-08-30/team_vehicles/car-ulm.webp
+    caption: Team Spatzenhirn's "Spatz 11" with distinctive onboard monitor
+    section: team_vehicles
+  - image_url: posts/2025-08-30/team_vehicles/car-kit.webp
+    caption: Team KITcar's "Miss Magic" with hub wheel motors and digital differential
+    section: team_vehicles
+  - image_url: posts/2025-08-30/team_vehicles/car-dhbw.webp
+    caption: Team Smart Rollerz's "Smarty" featuring annual complete rebuild design
+    section: team_vehicles
   
   # competition_action:
   #   - image_url: posts/2025-08-30/freedrive_action.webp
@@ -58,7 +62,7 @@ Building on the success of previous years, the 2025 challenge maintained the two
 
 This year's competition featured four teams, each bringing unique approaches and innovations:
 
-{% include gallery name="team_vehicles" title="Team Vehicles and Technology" %}
+{% include gallery title="Team Vehicles and Technology" %}
 
 ### Team Ostfalia-Cup (Wolfenbüttel) - First-Time Participants
 Making their CAuDri debut, Team Ostfalia brought two vehicles: "Cup" and "Pot." The team impressed with their philosophy of "keep it simple, stupid" and their commitment to creating solutions that everyone on the team can understand.
