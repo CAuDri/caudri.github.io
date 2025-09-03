@@ -1,36 +1,60 @@
 {% comment %}
 *
-*   This include lets you easily embed a gallery into your post.
+*   This include lets you easily embed multiple galleries into your post.
 *   To use the gallery include you...
 *
 *   1. ...need two images: a thumbnail and a big image.
 *   2. Name the thumbnail gallery-image-thumb.jpg and...
 *   3. ...name the big gallery-image.jpg
-*   4. Define the big version in frontmatter,
+*   4. Define galleries in frontmatter with unique names:
 *
-*   gallery:
+*   galleries:
+*     race_cars:
 *       - image_url: gallery-image.jpg
+*         caption: Starting Page with huge One Logo
+*       - image_url: another-image.jpg
+*         caption: Another caption
+*     team_photos:
+*       - image_url: team-photo.jpg
+*         caption: Our amazing team
 *
-*   5. Give your image a caption – works without captions, too.
+*   5. Add the include wherever you want in your content like this:
 *
-*   gallery:
-*       - image_url: gallery-image.jpg
-*          caption: Starting Page with huge One Logo
+*   {% include gallery name="race_cars" %}
+*   {% include gallery name="team_photos" %}
 *
-*   6. Add the include whereever you want in your content like this:
+*   6. Optional: Add a title to the gallery:
 *
-*   {% include gallery %}
+*   {% include gallery name="race_cars" title="Race Car Gallery" %}
 *
-*   Check out the example page › http://phlow.github.io/feeling-responsive/design/gallery/
+*   7. Legacy support: If no name is provided, it falls back to the old 'gallery' variable
+*
+*   {% include gallery %}  <!-- Uses page.gallery -->
 *
 {% endcomment %}
-<div>
-	<ul class="clearing-thumbs small-block-grid-4" data-clearing>
-		{% for item in page.gallery %}
-		{% capture url %}{{ item.image_url }}{% endcapture %}
-		{% assign split_url = url | split: '.' %}
-		{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
-		<li><a href="{{ site.urlimg }}{{ item.image_url }}"><img {% if item.caption %}data-caption="{{ item.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt="{{ item.caption }}"></a></li>
-		{% endfor %}
-	</ul>
+
+{% assign gallery_name = include.name | default: "gallery" %}
+{% assign gallery_title = include.title %}
+
+{% if gallery_name == "gallery" %}
+  {% assign gallery_items = page.gallery %}
+{% else %}
+  {% assign gallery_items = page.galleries[gallery_name] %}
+{% endif %}
+
+{% if gallery_items %}
+<div class="gallery-container{% if gallery_name != 'gallery' %} gallery-{{ gallery_name }}{% endif %}">
+  {% if gallery_title %}
+  <h3 class="gallery-title">{{ gallery_title }}</h3>
+  {% endif %}
+  
+  <ul class="clearing-thumbs small-block-grid-4" data-clearing>
+    {% for item in gallery_items %}
+    {% capture url %}{{ item.image_url }}{% endcapture %}
+    {% assign split_url = url | split: '.' %}
+    {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
+    <li><a href="{{ site.urlimg }}{{ item.image_url }}"><img {% if item.caption %}data-caption="{{ item.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt="{{ item.caption }}"></a></li>
+    {% endfor %}
+  </ul>
 </div>
+{% endif %}

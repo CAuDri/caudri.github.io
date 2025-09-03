@@ -6,31 +6,59 @@ categories: Season-2025
 author: by Marc and Jakob
 header: no
 date: 2025-05-20
-image:
-    title: posts/2025-08-30/team_picture_2025.jpg
-    caption: Teams, organizers, and volunteers celebrating the successful completion of the third CAuDri Challenge
+# image:
+#     title: posts/2025-08-30/team_picture_2025.jpg
+#     caption: Teams, organizers, and volunteers celebrating the successful completion of the third CAuDri Challenge
 published: true
+galleries:
+  # event_overview:
+  #   - image_url: posts/2025-08-30/event_overview/DSC06980.jpg
+  #     caption: Teams, organizers, and volunteers celebrating the successful completion of the third CAuDri Challenge
+  #   - image_url: posts/2025-08-30/event_overview/DSC06980.jpg
+  #     caption: Aerial view of the two competition tracks at DHBW Stuttgart
+  #   - image_url: posts/2025-08-30/competition_setup.webp
+  #     caption: The 2025 competition featured two active tracks with comprehensive testing facilities
+  
+  team_vehicles:
+    - image_url: posts/2025-08-30/team_vehicles/car-ostfalia.webp
+      caption: Team Ostfalia's "Cup" vehicle featuring lightweight 3D-printed construction
+    - image_url: posts/2025-08-30/team_vehicles/car-ulm.webp
+      caption: Team Spatzenhirn's "Spatz 11" with distinctive onboard monitor
+    - image_url: posts/2025-08-30/team_vehicles/car-kit.webp
+      caption: Team KITcar's "Miss Magic" with hub wheel motors and digital differential
+    - image_url: posts/2025-08-30/team_vehicles/car-dhbw.webp
+      caption: Team Smart Rollerz's "Smarty" featuring annual complete rebuild design
+  
+  # competition_action:
+  #   - image_url: posts/2025-08-30/freedrive_action.webp
+  #     caption: High-speed action during the Freedrive time trial discipline
+  #   - image_url: posts/2025-08-30/obstacle_course.webp
+  #     caption: Teams navigating complex traffic scenarios in Obstacle Evasion
+  #   - image_url: posts/2025-08-30/team_testing.webp
+  #     caption: Teams fine-tuning their vehicles during Friday test sessions
+  #   - image_url: posts/2025-08-30/spectators.webp
+  #     caption: Engaged spectators watching the autonomous driving demonstrations
+  
+  # awards_ceremony:
+  #   - image_url: posts/2025-08-30/winners_podium.webp
+  #     caption: Championship podium with Spatzenhirn taking first place
+  #   - image_url: posts/2025-08-30/trophy_presentation.webp
+  #     caption: Award ceremony celebrating all participating teams
+  #   - image_url: posts/2025-08-30/team_celebration.webp
+  #     caption: Teams celebrating after a successful competition weekend
 ---
 
 The third CAuDri-Challenge took place on May 16-17, 2025, marking a significant milestone with the presentation of the new Navigation discipline - a challenge designed to test vehicles' ability to find their way through complex environments without predefined paths. While no teams participated in Navigation this year, we introduced the concept to prepare for future competitions. For the first time, we welcomed Team Ostfalia from Wolfenbüttel, joining our returning champions and creating the most competitive field yet.
 
-{% include image-gallery.html folder="/images/posts/2025-08-30/gallery_0" %}
-
-<div class="row">
-
-    <div class="small-12 columns">
-        <img src="{{ site.urlimg }}/posts/2025-08-30/track.webp" alt="Aerial view of the two competition tracks at DHBW Stuttgart">
-        <p class="text-right caption">
-            The 2025 competition featured two active tracks: Freedrive and Obstacle Evasion, with Navigation presented for future implementation
-        </p>
-    </div>
-</div>
+{% include gallery name="event_overview" title="Competition Overview" %}
 
 Building on the success of previous years, the 2025 challenge maintained the two-day format that teams and spectators have come to appreciate. The Faculty of Technology at DHBW Stuttgart once again provided an excellent venue, with space for multiple tracks and comprehensive testing facilities.
 
 ## The Teams and Their Vehicles
 
 This year's competition featured four teams, each bringing unique approaches and innovations:
+
+{% include gallery name="team_vehicles" title="Team Vehicles and Technology" %}
 
 ### Team Ostfalia-Cup (Wolfenbüttel) - First-Time Participants
 Making their CAuDri debut, Team Ostfalia brought two vehicles: "Cup" and "Pot." The team impressed with their philosophy of "keep it simple, stupid" and their commitment to creating solutions that everyone on the team can understand.
@@ -130,6 +158,8 @@ Teams expressed interest but cited capacity limitations as the reason for not pa
 
 The two-day format proved ideal for both teams and spectators, with Friday dedicated to setup, testing, and team interviews, while Saturday featured the official competition and public demonstrations.
 
+{% include gallery name="competition_action" title="Competition Action" %}
+
 **Team Interviews revealed key insights:**
 - **Ostfalia** operates as a university working group offering courses to students, with all documentation publicly available via GitLab. They maintain only 6-7 team members but emphasize that everyone understands their simple, effective solutions.
 - **Spatzenhirn** completed a major generational transition, with new members rebuilding the entire vehicle and software stack. They deliberately chose to "make it yourself" rather than maintain legacy code, finding this approach more motivating.
@@ -153,6 +183,8 @@ In a stunning upset, Team Spatzenhirn broke KITcar's championship streak with a 
 - **Fourth Place: Team Ostfalia-Cup (Wolfenbüttel)**
   - Remarkable debut performance
   - Showed great promise with their innovative approach
+
+{% include gallery name="awards_ceremony" title="Awards Ceremony" %}
 
 ## Looking Forward
 
