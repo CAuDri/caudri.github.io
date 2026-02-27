@@ -12,12 +12,14 @@ date: 2025-05-20
 published: true
 galleries:
   event_overview:
-    - image_url: posts/2025-08-30/event_overview/crosswalk.webp
-      caption: Teams, organizers, and volunteers celebrating the successful completion of the third CAuDri Challenge
+    - image_url: posts/2025-08-30/event_overview/everyone.webp
+      caption: Picture of all participants in the CAuDri-Challenge 2025
+    - image_url: posts/2025-08-30/event_overview/challenge.webp
+      caption: Last preparations before the start of the challenge
     - image_url: posts/2025-08-30/event_overview/spectator.webp
-      caption: Aerial view of the two competition tracks at DHBW Stuttgart
-    - image_url: posts/2025-08-30/event_overview/stage-1.webp
-      caption: The 2025 competition featured two active tracks with comprehensive testing facilities
+      caption: Referees are discussing the performance of a vehicle
+    - image_url: posts/2025-08-30/event_overview/handshake.webp
+      caption: The moderation thanks a member of Team Spatzenhirn, after giving a technical presentation
   
   team_vehicles:
     - image_url: posts/2025-08-30/team_vehicles/car_ostfalia.webp
@@ -28,6 +30,14 @@ galleries:
       caption: Team KITcars Miss Magic with hub wheel motors and digital differential
     - image_url: posts/2025-08-30/team_vehicles/car_dhbw.webp
       caption: Team Smart Rollerzs vehicle featuring annual complete rebuild design
+
+  obstacle_course:
+    - image_url: posts/2025-08-30/obstacle_course/obstacle-follow.webp
+      caption: Team Ostfalia-Cup following a dynamic obstacle through a no passing zone
+    - image_url: posts/2025-08-30/obstacle_course/obstacle-crosswalk.webp
+      caption: Spatz 11 waiting at a crosswalk for a pedestrian to pass
+    - image_url: posts/2025-08-30/obstacle_course/obstacle-preperations.webp
+      caption: KitCar team members preparing their vehicle for the obstacle course
 
   tracks:
     - image_url: posts/2025-08-30/tracks/track.webp
@@ -64,7 +74,16 @@ This year's competition featured four teams, each bringing unique approaches and
 
 
 ### Team Ostfalia-Cup (Wolfenbüttel) - First-Time Participants
-Making their CAuDri debut, Team Ostfalia brought two vehicles: "Cup" and "Pot." The team impressed with their philosophy of "keep it simple, stupid" and their commitment to creating solutions that everyone on the team can understand.
+<div class="row">
+    <div class="small-12 columns">
+        <img src="{{ site.urlimg }}/posts/2025-08-30/team_images/team-ostfalia.webp" alt="Team photo of Ostfalia-Cup from Wolfenbüttel">
+        <p class="text-right caption">
+            Team Ostfalia-Cup from Wolfenbüttel.
+        </p>
+    </div>
+</div>
+
+Making their CAuDri debut, Team Ostfalia brought two vehicles: "Cup" and "Pot". The team impressed with their philosophy of "keep it simple, stupid" and their commitment to creating solutions that everyone on the team can understand.
 
 **Technology & Approach:**
 - Custom middleware framework instead of ROS for full system control
@@ -79,6 +98,15 @@ Making their CAuDri debut, Team Ostfalia brought two vehicles: "Cup" and "Pot." 
 **Future Plans:** Major platform renewal including new sensors (Time-of-Flight, LiDAR), different cameras, and overall hardware component updates.
 
 ### Team Spatzenhirn (University of Ulm) - The Champions
+<div class="row">
+    <div class="small-12 columns">
+        <img src="{{ site.urlimg }}/posts/2025-08-30/team_images/team-ulm.webp" alt="Team photo of Team Spatzenhirn from Ulm">
+        <p class="text-right caption">
+            Team Spatzenhirn from Ulm.
+        </p>
+    </div>
+</div>
+
 The 2025 winners returned with "Spatz 11," their large and heavy vehicle featuring a distinctive onboard monitor. The established team showcased their methodical renewal approach, with new members taking over from veterans and rebuilding much of the vehicle and software systems.
 
 **Technology & Approach:**
@@ -96,7 +124,16 @@ The 2025 winners returned with "Spatz 11," their large and heavy vehicle featuri
 
 **Future Plans:** Coral TPU integration for enhanced neural network performance, training team members as multi-purpose tools, and regaining full control over their codebase. They cited being stretched thin with new developments as the reason for not tackling Navigation in 2025.
 
-### Team KITcar (Karlsruhe Institute of Technology) - The Veterans  
+### Team KITcar (Karlsruhe Institute of Technology) - The Veterans
+<div class="row">
+    <div class="small-12 columns">
+        <img src="{{ site.urlimg }}/posts/2025-08-30/team_images/team-kit.webp" alt="Team photo of Team KITcar from Karlsruhe">
+        <p class="text-right caption">
+            Team KITcar from Karlsruhe.
+        </p>
+    </div>
+</div>
+
 The former three-time champions brought "Miss Magic" with their decade of accumulated experience. The team operates through coordinated sub-teams with multifunctional capabilities, managing one of the larger and more established autonomous driving teams.
 
 **Technology & Approach:**
@@ -114,6 +151,15 @@ The former three-time champions brought "Miss Magic" with their decade of accumu
 **Future Plans:** Addressing remaining technical issues while managing generational transition as senior members graduate. Focus on machine learning integration, better sensor utilization, and improving system robustness. Strong emphasis on maintaining team enjoyment and collegiate atmosphere through flexible organization and social events.
 
 ### Team Smart Rollerz (DHBW Stuttgart) - The Hosts and Innovators
+<div class="row">
+    <div class="small-12 columns">
+        <img src="{{ site.urlimg }}/posts/2025-08-30/team_images/team-stuttgart.webp" alt="Team photo of Team Smart Rollerz from Stuttgart">
+        <p class="text-right caption">
+            Team Smart Rollerz from Stuttgart.
+        </p>
+    </div>
+</div>
+
 The home team continued their unique tradition of completely rebuilding "Smarty" each year as mandatory student project work. This approach ensures fresh perspectives while being constrained by academic requirements and specialized expertise needs.
 
 **Technology & Approach:**
@@ -137,6 +183,8 @@ The home team continued their unique tradition of completely rebuilding "Smarty"
 The traditional time trial discipline challenged teams to achieve maximum speed while maintaining lane discipline. This year's course rewarded teams with superior vehicle dynamics, high-speed trajectory planning, and robust lane detection systems.
 
 ### Obstacle Evasion Course  
+{% include gallery name="obstacle_course" %}
+
 The most complex traditional discipline simulated real traffic scenarios with moving vehicles, pedestrians, traffic signs, and various traffic rules. Teams needed to demonstrate sophisticated perception systems capable of real-time recognition of multiple object types and traffic regulations.
 
 Key challenges included:
