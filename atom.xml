@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://www.caudri-challenge.de/</id>
 	<title>CAuDri-Challenge</title>
-	<updated>2026-01-26T13:37:07+00:00</updated>
+	<updated>2026-03-19T13:09:10+00:00</updated>
 
 	<subtitle>Official website of the Cognitive Autonomous Driving Challenge - Hosted and maintained by CAuDri e.V.</subtitle>
 
@@ -24,6 +24,420 @@
 
 	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://www.caudri-challenge.de/season-2025/caudri-challenge-2025/</id>
+			<title>CAuDri-Challenge 2025</title>
+			<link href="https://www.caudri-challenge.de/season-2025/caudri-challenge-2025/" rel="alternate" type="text/html" title="CAuDri-Challenge 2025" />
+			<updated>2025-05-20T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>by Marc and Jakob</name>
+					
+					
+					
+				</author>
+			
+			<summary>The third CAuDri-Challenge brought together four teams from across Germany to compete in the most challenging competition yet, featuring the debut of the new Navigation discipline alongside the traditional Freedrive and Obstacle Evasion courses. Teams showcased cutting-edge autonomous driving technology at DHBW Stuttgart&apos;s Faculty of Technology.</summary>
+			<content type="html" xml:base="https://www.caudri-challenge.de/season-2025/caudri-challenge-2025/">&lt;p&gt;The third CAuDri-Challenge took place on May 16-17, 2025, marking a significant milestone with the presentation of the new Navigation discipline - a challenge designed to test vehicles’ ability to find their way through complex environments without predefined paths. While no teams participated in Navigation this year, we introduced the concept to prepare for future competitions. For the first time, we welcomed Team Ostfalia from Wolfenbüttel, joining our returning champions and creating the most competitive field yet.&lt;/p&gt;
+
+&lt;div class=&quot;gallery-container gallery-event_overview&quot;&gt;
+  
+  
+  &lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/event_overview/everyone.webp&quot;&gt;&lt;img data-caption=&quot;Picture of all participants in the CAuDri-Challenge 2025&quot; src=&quot;/images/posts/2025-08-30/event_overview/everyone-thumb.webp&quot; alt=&quot;Picture of all participants in the CAuDri-Challenge 2025&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/event_overview/challenge.webp&quot;&gt;&lt;img data-caption=&quot;Last preparations before the start of the challenge&quot; src=&quot;/images/posts/2025-08-30/event_overview/challenge-thumb.webp&quot; alt=&quot;Last preparations before the start of the challenge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/event_overview/spectator.webp&quot;&gt;&lt;img data-caption=&quot;Referees are discussing the performance of a vehicle&quot; src=&quot;/images/posts/2025-08-30/event_overview/spectator-thumb.webp&quot; alt=&quot;Referees are discussing the performance of a vehicle&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/event_overview/handshake.webp&quot;&gt;&lt;img data-caption=&quot;The moderation thanks a member of Team Spatzenhirn, after giving a technical presentation&quot; src=&quot;/images/posts/2025-08-30/event_overview/handshake-thumb.webp&quot; alt=&quot;The moderation thanks a member of Team Spatzenhirn, after giving a technical presentation&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Building on the success of previous years, the 2025 challenge maintained the two-day format that teams and spectators have come to appreciate. The Faculty of Technology at DHBW Stuttgart once again provided an excellent venue, with space for multiple tracks and comprehensive testing facilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-teams-and-their-vehicles&quot;&gt;The Teams and Their Vehicles&lt;/h2&gt;
+
+&lt;p&gt;This year’s competition featured four teams, each bringing unique approaches and innovations&lt;/p&gt;
+
+&lt;div class=&quot;gallery-container gallery-team_vehicles&quot;&gt;
+  
+  
+  &lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/team_vehicles/car_ostfalia.webp&quot;&gt;&lt;img data-caption=&quot;Team Ostfalias Cup vehicle featuring lightweight 3D-printed construction&quot; src=&quot;/images/posts/2025-08-30/team_vehicles/car_ostfalia-thumb.webp&quot; alt=&quot;Team Ostfalias Cup vehicle featuring lightweight 3D-printed construction&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/team_vehicles/car_ulm.webp&quot;&gt;&lt;img data-caption=&quot;Team Spatzenhirns Spatz 11 with distinctive onboard monitor&quot; src=&quot;/images/posts/2025-08-30/team_vehicles/car_ulm-thumb.webp&quot; alt=&quot;Team Spatzenhirns Spatz 11 with distinctive onboard monitor&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/team_vehicles/car_kit.webp&quot;&gt;&lt;img data-caption=&quot;Team KITcars Miss Magic with hub wheel motors and digital differential&quot; src=&quot;/images/posts/2025-08-30/team_vehicles/car_kit-thumb.webp&quot; alt=&quot;Team KITcars Miss Magic with hub wheel motors and digital differential&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/team_vehicles/car_dhbw.webp&quot;&gt;&lt;img data-caption=&quot;Team Smart Rollerzs vehicle featuring annual complete rebuild design&quot; src=&quot;/images/posts/2025-08-30/team_vehicles/car_dhbw-thumb.webp&quot; alt=&quot;Team Smart Rollerzs vehicle featuring annual complete rebuild design&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+
+
+
+
+
+
+
+&lt;div class=&quot;gallery-container gallery-impressions&quot;&gt;
+  
+  
+  &lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/impressions/driving-spatz.webp&quot;&gt;&lt;img data-caption=&quot;asdf&quot; src=&quot;/images/posts/2025-08-30/impressions/driving-spatz-thumb.webp&quot; alt=&quot;asdf&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/impressions/driving-spatz-2.webp&quot;&gt;&lt;img data-caption=&quot;agh&quot; src=&quot;/images/posts/2025-08-30/impressions/driving-spatz-2-thumb.webp&quot; alt=&quot;agh&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/impressions/startbox-kit.webp&quot;&gt;&lt;img data-caption=&quot;asdt4r&quot; src=&quot;/images/posts/2025-08-30/impressions/startbox-kit-thumb.webp&quot; alt=&quot;asdt4r&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/impressions/tinkering-kit.webp&quot;&gt;&lt;img data-caption=&quot;asdfg&quot; src=&quot;/images/posts/2025-08-30/impressions/tinkering-kit-thumb.webp&quot; alt=&quot;asdfg&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;h3 id=&quot;team-ostfalia-cup-wolfenbüttel---first-time-participants&quot;&gt;Team Ostfalia-Cup (Wolfenbüttel) - First-Time Participants&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 columns&quot;&gt;
+        &lt;img src=&quot;/images//posts/2025-08-30/team_images/team-ostfalia.webp&quot; alt=&quot;Team photo of Ostfalia-Cup from Wolfenbüttel&quot; /&gt;
+        &lt;p class=&quot;text-right caption&quot;&gt;
+            Team Ostfalia-Cup from Wolfenbüttel.
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Making their CAuDri debut, Team Ostfalia brought two vehicles: “Cup” and “Pot”. The team impressed with their philosophy of “keep it simple, stupid” and their commitment to creating solutions that everyone on the team can understand.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology &amp;amp; Approach:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Custom middleware framework instead of ROS for full system control&lt;/li&gt;
+  &lt;li&gt;Completely 3D-printed lightweight construction using Fusion360&lt;/li&gt;
+  &lt;li&gt;Task management through GitLab with public documentation&lt;/li&gt;
+  &lt;li&gt;Dual-vehicle strategy for testing and redundancy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Strengths:&lt;/strong&gt; Simple but sufficient solutions that everyone on the team understands, with strong team cohesion and effective collaboration.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recent Challenges:&lt;/strong&gt; Team restructuring with few members and physical relocation, but they’ve implemented additional measures to reach students through courses and public outreach.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future Plans:&lt;/strong&gt; Major platform renewal including new sensors (Time-of-Flight, LiDAR), different cameras, and overall hardware component updates.&lt;/p&gt;
+
+&lt;h3 id=&quot;team-spatzenhirn-university-of-ulm---the-champions&quot;&gt;Team Spatzenhirn (University of Ulm) - The Champions&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 columns&quot;&gt;
+        &lt;img src=&quot;/images//posts/2025-08-30/team_images/team-ulm.webp&quot; alt=&quot;Team photo of Team Spatzenhirn from Ulm&quot; /&gt;
+        &lt;p class=&quot;text-right caption&quot;&gt;
+            Team Spatzenhirn from Ulm.
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The 2025 winners returned with “Spatz 11,” their large and heavy vehicle featuring a distinctive onboard monitor. The established team showcased their methodical renewal approach, with new members taking over from veterans and rebuilding much of the vehicle and software systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology &amp;amp; Approach:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ROS2 framework with Zephyr firmware&lt;/li&gt;
+  &lt;li&gt;Multi-sensor fusion: color camera and two depth cameras&lt;/li&gt;
+  &lt;li&gt;Small neural networks optimized for CPU-only processing&lt;/li&gt;
+  &lt;li&gt;New dual-axis Stanley controller based on Werling’s research from KIT&lt;/li&gt;
+  &lt;li&gt;Complete trajectory planning system renewal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Strengths:&lt;/strong&gt; Current software running reliably, good perception through purposeful sensor deployment, and agility enabled by small team size allowing rapid development.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recent Challenges:&lt;/strong&gt; Limited new recruits and upcoming departure of experienced members, but turned this into motivation by completely rebuilding their vehicle and implementing new traffic rule logic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Key Innovation:&lt;/strong&gt; “Selber machen macht mehr Spaß als altes zu pflegen” (Making it yourself is more fun than maintaining old code) - complete system renewal over maintaining legacy code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future Plans:&lt;/strong&gt; Coral TPU integration for enhanced neural network performance, training team members as multi-purpose tools, and regaining full control over their codebase. They cited being stretched thin with new developments as the reason for not tackling Navigation in 2025.&lt;/p&gt;
+
+&lt;h3 id=&quot;team-kitcar-karlsruhe-institute-of-technology---the-veterans&quot;&gt;Team KITcar (Karlsruhe Institute of Technology) - The Veterans&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 columns&quot;&gt;
+        &lt;img src=&quot;/images//posts/2025-08-30/team_images/team-kit.webp&quot; alt=&quot;Team photo of Team KITcar from Karlsruhe&quot; /&gt;
+        &lt;p class=&quot;text-right caption&quot;&gt;
+            Team KITcar from Karlsruhe.
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The former three-time champions brought “Miss Magic” with their decade of accumulated experience. The team operates through coordinated sub-teams with multifunctional capabilities, managing one of the larger and more established autonomous driving teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology &amp;amp; Approach:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Recent transition from ROS1 to ROS2 with Micro ROS&lt;/li&gt;
+  &lt;li&gt;Hub wheel motors for precise control&lt;/li&gt;
+  &lt;li&gt;Digital differential implementation&lt;/li&gt;
+  &lt;li&gt;New depth camera integration&lt;/li&gt;
+  &lt;li&gt;Behavior tree architecture for decision making&lt;/li&gt;
+  &lt;li&gt;Coordinated sub-teams with multifunctional capabilities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Strengths:&lt;/strong&gt; Extensive experience traditionally strong in Obstacle Course, with high expectations for new Navigation discipline performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recent Challenges:&lt;/strong&gt; Major ROS migration, getting Miss Magic road-ready, implementing radical innovations (digital differential, behavior trees), and new camera integration. Learned that dependency upgrades are complex and radical innovations require significant work investment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future Plans:&lt;/strong&gt; Addressing remaining technical issues while managing generational transition as senior members graduate. Focus on machine learning integration, better sensor utilization, and improving system robustness. Strong emphasis on maintaining team enjoyment and collegiate atmosphere through flexible organization and social events.&lt;/p&gt;
+
+&lt;h3 id=&quot;team-smart-rollerz-dhbw-stuttgart---the-hosts-and-innovators&quot;&gt;Team Smart Rollerz (DHBW Stuttgart) - The Hosts and Innovators&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 columns&quot;&gt;
+        &lt;img src=&quot;/images//posts/2025-08-30/team_images/team-stuttgart.webp&quot; alt=&quot;Team photo of Team Smart Rollerz from Stuttgart&quot; /&gt;
+        &lt;p class=&quot;text-right caption&quot;&gt;
+            Team Smart Rollerz from Stuttgart.
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The home team continued their unique tradition of completely rebuilding “Smarty” each year as mandatory student project work. This approach ensures fresh perspectives while being constrained by academic requirements and specialized expertise needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology &amp;amp; Approach:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Annual complete rebuild as part of academic requirements&lt;/li&gt;
+  &lt;li&gt;ROS2 framework with neural network detection (TensorFlow Lite, PyTorch)&lt;/li&gt;
+  &lt;li&gt;Frame-rate independent state estimation&lt;/li&gt;
+  &lt;li&gt;Low-level sensor fusion implementation&lt;/li&gt;
+  &lt;li&gt;Comprehensive documentation through mandatory student thesis work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Strengths:&lt;/strong&gt; Strong object detection capabilities, fresh approach each year since everyone writes their own code, excellent documentation due to academic requirements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recent Challenges:&lt;/strong&gt; Error-prone environment recognition (solved with polarization filters), slow processing leading to slow control loops - addressed through frame-rate independent state estimation and sensor fusion.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future Plans:&lt;/strong&gt; SLAM implementation for simple mapping and object tracking, platform improvements including smaller PCBs and better cable management, new body design, and software runtime optimization for faster lane detection. Considering participating in the Navigation discipline for next year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unique Aspect:&lt;/strong&gt; Students participate through mandatory project work, ensuring continuous innovation but limited to academic schedule constraints.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-disciplines&quot;&gt;The Disciplines&lt;/h2&gt;
+
+&lt;h3 id=&quot;freedrive-course&quot;&gt;Freedrive Course&lt;/h3&gt;
+&lt;p&gt;The traditional time trial discipline challenged teams to achieve maximum speed while maintaining lane discipline. This year’s course rewarded teams with superior vehicle dynamics, high-speed trajectory planning, and robust lane detection systems.&lt;/p&gt;
+
+&lt;h3 id=&quot;obstacle-evasion-course&quot;&gt;Obstacle Evasion Course&lt;/h3&gt;
+
+&lt;div class=&quot;gallery-container gallery-obstacle_course&quot;&gt;
+  
+  
+  &lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/obstacle_course/obstacle-follow.webp&quot;&gt;&lt;img data-caption=&quot;Team Ostfalia-Cup following a dynamic obstacle through a no passing zone&quot; src=&quot;/images/posts/2025-08-30/obstacle_course/obstacle-follow-thumb.webp&quot; alt=&quot;Team Ostfalia-Cup following a dynamic obstacle through a no passing zone&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/obstacle_course/obstacle-crosswalk.webp&quot;&gt;&lt;img data-caption=&quot;Spatz 11 waiting at a crosswalk for a pedestrian to pass&quot; src=&quot;/images/posts/2025-08-30/obstacle_course/obstacle-crosswalk-thumb.webp&quot; alt=&quot;Spatz 11 waiting at a crosswalk for a pedestrian to pass&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2025-08-30/obstacle_course/obstacle-preperations.webp&quot;&gt;&lt;img data-caption=&quot;KitCar team members preparing their vehicle for the obstacle course&quot; src=&quot;/images/posts/2025-08-30/obstacle_course/obstacle-preperations-thumb.webp&quot; alt=&quot;KitCar team members preparing their vehicle for the obstacle course&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The most complex traditional discipline simulated real traffic scenarios with moving vehicles, pedestrians, traffic signs, and various traffic rules. Teams needed to demonstrate sophisticated perception systems capable of real-time recognition of multiple object types and traffic regulations.&lt;/p&gt;
+
+&lt;p&gt;Key challenges included:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Moving and stationary vehicles&lt;/li&gt;
+  &lt;li&gt;Pedestrian crossings with and without pedestrians&lt;/li&gt;
+  &lt;li&gt;Traffic signs and speed limits&lt;/li&gt;
+  &lt;li&gt;Overtaking restrictions and right-of-way scenarios&lt;/li&gt;
+  &lt;li&gt;Stop signs and yield situations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;navigation---the-future-challenge&quot;&gt;Navigation - The Future Challenge&lt;/h3&gt;
+&lt;p&gt;While not contested this year, the Navigation discipline was presented to teams as the next evolution in autonomous driving competition. This challenging concept would require vehicles to demonstrate mapping capabilities, path optimization, and coordinate-based navigation through unmarked environments - truly testing the “brain” of autonomous vehicles.&lt;/p&gt;
+
+&lt;p&gt;The proposed Navigation challenges include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Real-time environment mapping&lt;/li&gt;
+  &lt;li&gt;Path planning and optimization&lt;/li&gt;
+  &lt;li&gt;Coordinate system navigation&lt;/li&gt;
+  &lt;li&gt;Robust localization without lane markings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Teams expressed interest but cited capacity limitations as the reason for not participating in 2025, with several indicating plans to tackle Navigation in future competitions.&lt;/p&gt;
+
+&lt;h2 id=&quot;competition-highlights&quot;&gt;Competition Highlights&lt;/h2&gt;
+
+&lt;p&gt;The two-day format proved ideal for both teams and spectators, with Friday dedicated to setup, testing, and team interviews, while Saturday featured the official competition and public demonstrations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Interviews revealed key insights:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ostfalia&lt;/strong&gt; operates as a university working group offering courses to students, with all documentation publicly available via GitLab. They maintain only 6-7 team members but emphasize that everyone understands their simple, effective solutions.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Spatzenhirn&lt;/strong&gt; completed a major generational transition, with new members rebuilding the entire vehicle and software stack. They deliberately chose to “make it yourself” rather than maintain legacy code, finding this approach more motivating.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;KITcar&lt;/strong&gt; manages their large team through 4 coordinated sub-teams, each with multifunctional capabilities. As an independent registered association, they receive institutional support and maintain connections with other student groups.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Smart Rollerz&lt;/strong&gt; uniquely rebuilds their vehicle annually through mandatory student project work, ensuring fresh approaches but limiting participation to academic schedules. They require specialized team members - noting that without their embedded and electrical engineering experts, “the car wouldn’t drive.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;In a stunning upset, Team Spatzenhirn broke KITcar’s championship streak with a commanding performance across all disciplines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;🥇 First Place: Team Spatzenhirn (University of Ulm)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Demonstrated superior reliability and consistency&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;🥈 Second Place: Team KITcar (KIT Karlsruhe)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Strong performance despite the intoduction of many new innovative technologies&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;🥉 Third Place: Team Smart Rollerz (DHBW Stuttgart)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Solid improvement from previous year&lt;/li&gt;
+      &lt;li&gt;Successfully mastered intersection challenges&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fourth Place: Team Ostfalia-Cup (Wolfenbüttel)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Remarkable debut performance&lt;/li&gt;
+      &lt;li&gt;Showed great promise with their innovative approach&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;looking-forward&quot;&gt;Looking Forward&lt;/h2&gt;
+
+&lt;p&gt;The introduction of the Navigation discipline marks an evolution in autonomous driving education and competition. Teams are already planning advanced features for next year:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ostfalia&lt;/strong&gt;: Platform renewal and sensor upgrades including LiDAR and time-of-flight sensors&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Spatzenhirn&lt;/strong&gt;: Integration of Coral TPU for enhanced neural network performance and improved team recruitment&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;KITcar&lt;/strong&gt;: Continued innovation with machine learning integration and enhanced sensor utilization&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Smart Rollerz&lt;/strong&gt;: SLAM implementation and advanced object tracking capabilities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Friday, May 16&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;09:00 : Arrival and setup&lt;/li&gt;
+  &lt;li&gt;10:30 : Open track test runs&lt;/li&gt;
+  &lt;li&gt;12:00 : Lunch break&lt;/li&gt;
+  &lt;li&gt;13:00 : Team meetings&lt;/li&gt;
+  &lt;li&gt;14:00 : Scheduled test runs&lt;/li&gt;
+  &lt;li&gt;19:00 : Team social evening&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Saturday, May 17&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;08:00 : Team arrival&lt;/li&gt;
+  &lt;li&gt;09:00 : General briefing&lt;/li&gt;
+  &lt;li&gt;09:30 : Team photoshoot&lt;/li&gt;
+  &lt;li&gt;10:00 : Final test sessions&lt;/li&gt;
+  &lt;li&gt;12:00 : Lunch break&lt;/li&gt;
+  &lt;li&gt;13:00 : Official opening&lt;/li&gt;
+  &lt;li&gt;13:30 : Team presentations&lt;/li&gt;
+  &lt;li&gt;14:00 : Final test runs&lt;/li&gt;
+  &lt;li&gt;15:00 : Competition begins
+    &lt;ul&gt;
+      &lt;li&gt;Freedrive Course&lt;/li&gt;
+      &lt;li&gt;Obstacle Evasion Course&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;17:30 : Navigation presentation for future competitions&lt;/li&gt;
+  &lt;li&gt;19:00 : Award ceremony&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;acknowledgments&quot;&gt;Acknowledgments&lt;/h2&gt;
+
+&lt;p&gt;The success of CAuDri-Challenge 2025 was made possible by the dedication and support of many:&lt;/p&gt;
+
+&lt;h3 id=&quot;educational-partners&quot;&gt;Educational Partners&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;DHBW Stuttgart&lt;/strong&gt; for providing exceptional facilities at the Faculty of Technology&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Poulidis (Facility Management)&lt;/strong&gt;, &lt;strong&gt;Prof. Zomotor&lt;/strong&gt;, &lt;strong&gt;Prof. Drüppel&lt;/strong&gt;, &lt;strong&gt;Dean Prof. Mandel&lt;/strong&gt;, and &lt;strong&gt;Mr. Baumgärtner&lt;/strong&gt; for technical support and equipment setup&lt;/li&gt;
+  &lt;li&gt;All participating universities for supporting their teams’ participation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sponsors-and-supporters&quot;&gt;Sponsors and Supporters&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Freunde und Förderer der DHBW&lt;/strong&gt; for financial support&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;KAMO (Karlsruhe Mobility)&lt;/strong&gt; for sponsorship and providing development internship opportunities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;event-team&quot;&gt;Event Team&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Special recognition to &lt;strong&gt;Yannik&lt;/strong&gt; for exceptional organizational leadership&lt;/li&gt;
+  &lt;li&gt;Marc and Jakob for hosting and commentary&lt;/li&gt;
+  &lt;li&gt;All volunteer referees ensuring fair competition&lt;/li&gt;
+  &lt;li&gt;Setup and breakdown crews&lt;/li&gt;
+  &lt;li&gt;Refreshment stand volunteers providing coffee, cake, waffles, and beverages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;community&quot;&gt;Community&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;All participating teams and their dedication to advancing autonomous driving technology&lt;/li&gt;
+  &lt;li&gt;Spectators and supporters who made the event vibrant and engaging&lt;/li&gt;
+  &lt;li&gt;The growing CAuDri community pushing the boundaries of educational robotics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The 2025 CAuDri-Challenge has set new standards for academic autonomous driving competitions, introducing advanced navigation challenges while maintaining the community spirit that makes this event special. We look forward to seeing how teams will rise to meet even greater challenges in 2026!&lt;/p&gt;
+
+&lt;p&gt;Teams interested in participating next year can join our &lt;a href=&quot;/discord/&quot;&gt;Discord server&lt;/a&gt; or contact us at &lt;a href=&quot;mailto:kontakt@caudri-challenge.de&quot;&gt;kontakt@caudri-challenge.de&lt;/a&gt; for more information.&lt;/p&gt;
+</content>
+
+			
+				<category term="Season-2025" />
+			
+			
+
+			<published>2025-05-20T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://www.caudri-challenge.de/season-2025/caurdi-challenge-2025-info/</id>
@@ -191,25 +605,27 @@ Please let us know how you would like to help out, by filling out this google fo
 
 &lt;p&gt;The stars of the show.&lt;/p&gt;
 
-&lt;div&gt;
-	&lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
-		
-		
-		
-		
-		&lt;li&gt;&lt;a href=&quot;/images/posts/2024-11-30/car_uulm.webp&quot;&gt;&lt;img data-caption=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm.&quot; src=&quot;/images/posts/2024-11-30/car_uulm-thumb.webp&quot; alt=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm.&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-		
-		
-		
-		
-		&lt;li&gt;&lt;a href=&quot;/images/posts/2024-11-30/car_kit.webp&quot;&gt;&lt;img data-caption=&quot;The winning vehicle from KITcar team.&quot; src=&quot;/images/posts/2024-11-30/car_kit-thumb.webp&quot; alt=&quot;The winning vehicle from KITcar team.&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-		
-		
-		
-		
-		&lt;li&gt;&lt;a href=&quot;/images/posts/2024-11-30/car_dhbw.webp&quot;&gt;&lt;img data-caption=&quot;The hosts vehicle from DHBW Stuttgart.&quot; src=&quot;/images/posts/2024-11-30/car_dhbw-thumb.webp&quot; alt=&quot;The hosts vehicle from DHBW Stuttgart.&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-		
-	&lt;/ul&gt;
+&lt;div class=&quot;gallery-container&quot;&gt;
+  
+  
+  &lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2024-11-30/car_uulm.webp&quot;&gt;&lt;img data-caption=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm.&quot; src=&quot;/images/posts/2024-11-30/car_uulm-thumb.webp&quot; alt=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm.&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2024-11-30/car_kit.webp&quot;&gt;&lt;img data-caption=&quot;The winning vehicle from KITcar team.&quot; src=&quot;/images/posts/2024-11-30/car_kit-thumb.webp&quot; alt=&quot;The winning vehicle from KITcar team.&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2024-11-30/car_dhbw.webp&quot;&gt;&lt;img data-caption=&quot;The hosts vehicle from DHBW Stuttgart.&quot; src=&quot;/images/posts/2024-11-30/car_dhbw-thumb.webp&quot; alt=&quot;The hosts vehicle from DHBW Stuttgart.&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
@@ -332,30 +748,32 @@ Congratulations to this year’s winners:&lt;/p&gt;
 			<content type="html" xml:base="https://www.caudri-challenge.de/season-2023/caudri-challenge-2023/">&lt;p&gt;After the initial idea in February in Ulm and months of tireless work, the first Cognitive Autonomous Driving Challenge took place in Stuttgart on October 7, 2023.
 Hungry for a test of strength after exhausting years of online competition and the unfortunate end of the Carolo Cup in Braunschweig, the five teams from Aachen, Karlsruhe, Stuttgart, Ulm and Wolfsburg were now able to meet in person again and compete against each other with their autonomous model vehicles.&lt;/p&gt;
 
-&lt;div&gt;
-	&lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
-		
-		
-		
-		
-		&lt;li&gt;&lt;a href=&quot;/images/posts/2023-12-05/car_aachen.webp&quot;&gt;&lt;img data-caption=&quot;Team GalaXIs from RWTH Aachen with their vehicle&quot; src=&quot;/images/posts/2023-12-05/car_aachen-thumb.webp&quot; alt=&quot;Team GalaXIs from RWTH Aachen with their vehicle&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-		
-		
-		
-		
-		&lt;li&gt;&lt;a href=&quot;/images/posts/2023-12-05/car_ulm.webp&quot;&gt;&lt;img data-caption=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm&quot; src=&quot;/images/posts/2023-12-05/car_ulm-thumb.webp&quot; alt=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-		
-		
-		
-		
-		&lt;li&gt;&lt;a href=&quot;/images/posts/2023-12-05/car_kit.webp&quot;&gt;&lt;img data-caption=&quot;The winning vehicle from KITcar team&quot; src=&quot;/images/posts/2023-12-05/car_kit-thumb.webp&quot; alt=&quot;The winning vehicle from KITcar team&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-		
-		
-		
-		
-		&lt;li&gt;&lt;a href=&quot;/images/posts/2023-12-05/car_ostfalia.webp&quot;&gt;&lt;img data-caption=&quot;e.Wolf team&apos;s vehicle from Ostfalia University&quot; src=&quot;/images/posts/2023-12-05/car_ostfalia-thumb.webp&quot; alt=&quot;e.Wolf team&apos;s vehicle from Ostfalia University&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-		
-	&lt;/ul&gt;
+&lt;div class=&quot;gallery-container&quot;&gt;
+  
+  
+  &lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2023-12-05/car_aachen.webp&quot;&gt;&lt;img data-caption=&quot;Team GalaXIs from RWTH Aachen with their vehicle&quot; src=&quot;/images/posts/2023-12-05/car_aachen-thumb.webp&quot; alt=&quot;Team GalaXIs from RWTH Aachen with their vehicle&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2023-12-05/car_ulm.webp&quot;&gt;&lt;img data-caption=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm&quot; src=&quot;/images/posts/2023-12-05/car_ulm-thumb.webp&quot; alt=&quot;Spatzenhirn team&apos;s autonomous car from University of Ulm&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2023-12-05/car_kit.webp&quot;&gt;&lt;img data-caption=&quot;The winning vehicle from KITcar team&quot; src=&quot;/images/posts/2023-12-05/car_kit-thumb.webp&quot; alt=&quot;The winning vehicle from KITcar team&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    
+    
+    &lt;li&gt;&lt;a href=&quot;/images/posts/2023-12-05/car_ostfalia.webp&quot;&gt;&lt;img data-caption=&quot;e.Wolf team&apos;s vehicle from Ostfalia University&quot; src=&quot;/images/posts/2023-12-05/car_ostfalia-thumb.webp&quot; alt=&quot;e.Wolf team&apos;s vehicle from Ostfalia University&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;row&quot;&gt;
