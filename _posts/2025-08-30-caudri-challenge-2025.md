@@ -23,7 +23,7 @@ galleries:
   
   team_vehicles:
     - image_url: posts/2025-08-30/team_vehicles/car_ostfalia.webp
-      caption: Team Ostfalias Cup vehicle featuring lightweight 3D-printed construction
+      caption: Team Ostfalia-Cups vehicle featuring lightweight 3D-printed construction
     - image_url: posts/2025-08-30/team_vehicles/car_ulm.webp
       caption: Team Spatzenhirns Spatz 11 with distinctive onboard monitor
     - image_url: posts/2025-08-30/team_vehicles/car_kit.webp
@@ -58,7 +58,7 @@ galleries:
       caption: asdfg
 ---
 
-The third CAuDri-Challenge took place on May 16-17, 2025, marking a significant milestone with the presentation of the new Navigation discipline - a challenge designed to test vehicles' ability to find their way through complex environments without predefined paths. While no teams participated in Navigation this year, we introduced the concept to prepare for future competitions. For the first time, we welcomed Team Ostfalia from Wolfenbüttel, joining our returning champions and creating the most competitive field yet.
+The third CAuDri-Challenge took place on May 16-17, 2025, marking a significant milestone with the presentation of the new Navigation discipline - a challenge designed to test vehicles' ability to find their way through complex environments without predefined paths. While no teams participated in Navigation this year, we introduced the concept to prepare for future competitions. For the first time, we welcomed Team Ostfalia-Cup from Wolfenbüttel, joining our returning champions and creating the most competitive field yet.
 
 {% include gallery name="event_overview" %}
 
@@ -73,7 +73,7 @@ This year's competition featured four teams, each bringing unique approaches and
 <!-- {% include gallery name="impressions" %} -->
 
 
-### Team Ostfalia-Cup (Wolfenbüttel) - First-Time Participants
+### Team Ostfalia-Cup (Ostfalia University of Applied Sciences) - First-Time Participants
 <div class="row">
     <div class="small-12 columns">
         <img src="{{ site.urlimg }}/posts/2025-08-30/team_images/team-ostfalia.webp" alt="Team photo of Ostfalia-Cup from Wolfenbüttel">
@@ -212,7 +212,7 @@ The two-day format proved ideal for both teams and spectators, with Friday dedic
 {% include gallery name="competition_action" title="Competition Action" %}
 
 **Team Interviews revealed key insights:**
-- **Ostfalia** operates as a university working group offering courses to students, with all documentation publicly available via GitLab. They maintain only 6-7 team members but emphasize that everyone understands their simple, effective solutions.
+- **Ostfalia-Cup** operates as a university working group offering courses to students, with all documentation publicly available via GitLab. They maintain only 6-7 team members but emphasize that everyone understands their simple, effective solutions.
 - **Spatzenhirn** completed a major generational transition, with new members rebuilding the entire vehicle and software stack. They deliberately chose to "make it yourself" rather than maintain legacy code, finding this approach more motivating.
 - **KITcar** manages their large team through 4 coordinated sub-teams, each with multifunctional capabilities. As an independent registered association, they receive institutional support and maintain connections with other student groups.
 - **Smart Rollerz** uniquely rebuilds their vehicle annually through mandatory student project work, ensuring fresh approaches but limiting participation to academic schedules. They require specialized team members - noting that without their embedded and electrical engineering experts, "the car wouldn't drive."
@@ -224,14 +224,14 @@ In a stunning upset, Team Spatzenhirn broke KITcar's championship streak with a 
 ### Freedrive
 
 - **🥇 First Place: Team Spatzenhirn (University of Ulm)**
-- **🥈 Second Place: Team Ostfalia-Cup (Wolfenbüttel)**  
-- **🥉 Third Place: Team Smart Rollerz (DHBW Stuttgart)**.
-- **4️⃣ Fourth Place: Team KITcar (KIT Karlsruhe)**
+- **🥈 Second Place: Team Ostfalia-Cup (Ostfalia University of Applied Sciences)**  
+- **🥉 Third Place: Team KITcar (KIT Karlsruhe)**
+- **4️⃣ Fourth Place: Team Smart Rollerz (DHBW Stuttgart)**.
 
 ### Obstacle Evasion
 
 - **🥇 First Place: Team Spatzenhirn (University of Ulm)**
-- **🥈 Second Place: Team Ostfalia-Cup (Wolfenbüttel)**  
+- **🥈 Second Place: Team Ostfalia-Cup (Ostfalia University of Applied Sciences)**  
 - **🥉 Third Place: Team Smart Rollerz (DHBW Stuttgart) & Team KITcar (KIT Karlsruhe)**.
 
 {% include gallery name="awards_ceremony" title="Awards Ceremony" %}
@@ -240,7 +240,7 @@ In a stunning upset, Team Spatzenhirn broke KITcar's championship streak with a 
 
 The introduction of the Navigation discipline marks an evolution in autonomous driving education and competition. Teams are already planning advanced features for next year:
 
-- **Ostfalia**: Platform renewal and sensor upgrades including LiDAR and time-of-flight sensors
+- **Ostfalia-Cup**: Platform renewal and sensor upgrades including LiDAR and time-of-flight sensors
 - **Spatzenhirn**: Integration of Coral TPU for enhanced neural network performance and improved team recruitment
 - **KITcar**: Continued innovation with machine learning integration and enhanced sensor utilization  
 - **Smart Rollerz**: SLAM implementation and advanced object tracking capabilities
