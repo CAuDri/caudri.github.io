@@ -23,7 +23,7 @@ galleries:
   
   team_vehicles:
     - image_url: posts/2025-08-30/team_vehicles/car_ostfalia.webp
-      caption: Team Ostfalias Cup vehicle featuring lightweight 3D-printed construction
+      caption: Team Ostfalia-Cups vehicle featuring lightweight 3D-printed construction
     - image_url: posts/2025-08-30/team_vehicles/car_ulm.webp
       caption: Team Spatzenhirns Spatz 11 with distinctive onboard monitor
     - image_url: posts/2025-08-30/team_vehicles/car_kit.webp
@@ -58,7 +58,7 @@ galleries:
       caption: asdfg
 ---
 
-The third CAuDri-Challenge took place on May 16-17, 2025, marking a significant milestone with the presentation of the new Navigation discipline - a challenge designed to test vehicles' ability to find their way through complex environments without predefined paths. While no teams participated in Navigation this year, we introduced the concept to prepare for future competitions. For the first time, we welcomed Team Ostfalia from Wolfenbüttel, joining our returning champions and creating the most competitive field yet.
+The third CAuDri-Challenge took place on May 16-17, 2025, marking a significant milestone with the presentation of the new Navigation discipline - a challenge designed to test vehicles' ability to find their way through complex environments without predefined paths. While no teams participated in Navigation this year, we introduced the concept to prepare for future competitions. For the first time, we welcomed Team Ostfalia-Cup from Wolfenbüttel, joining our returning champions and creating the most competitive field yet.
 
 {% include gallery name="event_overview" %}
 
@@ -73,7 +73,7 @@ This year's competition featured four teams, each bringing unique approaches and
 <!-- {% include gallery name="impressions" %} -->
 
 
-### Team Ostfalia-Cup (Wolfenbüttel) - First-Time Participants
+### Team Ostfalia-Cup (Ostfalia University of Applied Sciences) - First-Time Participants
 <div class="row">
     <div class="small-12 columns">
         <img src="{{ site.urlimg }}/posts/2025-08-30/team_images/team-ostfalia.webp" alt="Team photo of Ostfalia-Cup from Wolfenbüttel">
@@ -97,7 +97,7 @@ Making their CAuDri debut, Team Ostfalia brought two vehicles: "Cup" and "Pot". 
 
 **Future Plans:** Major platform renewal including new sensors (Time-of-Flight, LiDAR), different cameras, and overall hardware component updates.
 
-### Team Spatzenhirn (University of Ulm) - The Champions
+### Team Spatzenhirn (University of Ulm) - The Veterans
 <div class="row">
     <div class="small-12 columns">
         <img src="{{ site.urlimg }}/posts/2025-08-30/team_images/team-ulm.webp" alt="Team photo of Team Spatzenhirn from Ulm">
@@ -107,7 +107,7 @@ Making their CAuDri debut, Team Ostfalia brought two vehicles: "Cup" and "Pot". 
     </div>
 </div>
 
-The 2025 winners returned with "Spatz 11," their large and heavy vehicle featuring a distinctive onboard monitor. The established team showcased their methodical renewal approach, with new members taking over from veterans and rebuilding much of the vehicle and software systems.
+The team from Ulm returned with "Spatz 11," their large and heavy vehicle featuring a distinctive onboard monitor. The established team showcased their methodical renewal approach, with new members taking over from veterans and rebuilding much of the vehicle and software systems.
 
 **Technology & Approach:**
 - ROS2 framework with Zephyr firmware
@@ -124,7 +124,7 @@ The 2025 winners returned with "Spatz 11," their large and heavy vehicle featuri
 
 **Future Plans:** Coral TPU integration for enhanced neural network performance, training team members as multi-purpose tools, and regaining full control over their codebase. They cited being stretched thin with new developments as the reason for not tackling Navigation in 2025.
 
-### Team KITcar (Karlsruhe Institute of Technology) - The Veterans
+### Team KITcar (Karlsruhe Institute of Technology) - The Champions
 <div class="row">
     <div class="small-12 columns">
         <img src="{{ site.urlimg }}/posts/2025-08-30/team_images/team-kit.webp" alt="Team photo of Team KITcar from Karlsruhe">
@@ -134,7 +134,7 @@ The 2025 winners returned with "Spatz 11," their large and heavy vehicle featuri
     </div>
 </div>
 
-The former three-time champions brought "Miss Magic" with their decade of accumulated experience. The team operates through coordinated sub-teams with multifunctional capabilities, managing one of the larger and more established autonomous driving teams.
+The former two-time gold winning champions brought "Miss Magic" with their decade of accumulated experience. The team operates through coordinated sub-teams with multifunctional capabilities, managing one of the larger and more established autonomous driving teams.
 
 **Technology & Approach:**
 - Recent transition from ROS1 to ROS2 with Micro ROS
@@ -195,9 +195,9 @@ Key challenges included:
 - Stop signs and yield situations
 
 ### Navigation - The Future Challenge
-While not contested this year, the Navigation discipline was presented to teams as the next evolution in autonomous driving competition. This challenging concept would require vehicles to demonstrate mapping capabilities, path optimization, and coordinate-based navigation through unmarked environments - truly testing the "brain" of autonomous vehicles.
+While not contested this year, the Navigation discipline was presented to teams as the next evolution in this autonomous driving competition. This challenging concept would require vehicles to explore and map an unknown urban environment and planning the optimal path to preset goal markers - truly testing the "brain" of autonomous vehicles.
 
-The proposed Navigation challenges include:
+The proposed Navigation challenge includes:
 - Real-time environment mapping
 - Path planning and optimization  
 - Coordinate system navigation
@@ -212,28 +212,27 @@ The two-day format proved ideal for both teams and spectators, with Friday dedic
 {% include gallery name="competition_action" title="Competition Action" %}
 
 **Team Interviews revealed key insights:**
-- **Ostfalia** operates as a university working group offering courses to students, with all documentation publicly available via GitLab. They maintain only 6-7 team members but emphasize that everyone understands their simple, effective solutions.
+- **Ostfalia-Cup** operates as a university working group offering courses to students, with all documentation publicly available via GitLab. They maintain only 6-7 team members but emphasize that everyone understands their simple, effective solutions.
 - **Spatzenhirn** completed a major generational transition, with new members rebuilding the entire vehicle and software stack. They deliberately chose to "make it yourself" rather than maintain legacy code, finding this approach more motivating.
 - **KITcar** manages their large team through 4 coordinated sub-teams, each with multifunctional capabilities. As an independent registered association, they receive institutional support and maintain connections with other student groups.
 - **Smart Rollerz** uniquely rebuilds their vehicle annually through mandatory student project work, ensuring fresh approaches but limiting participation to academic schedules. They require specialized team members - noting that without their embedded and electrical engineering experts, "the car wouldn't drive."
 
 ## Results
 
-In a stunning upset, Team Spatzenhirn broke KITcar's championship streak with a commanding performance across all disciplines:
+In a stunning upset, Team Spatzenhirn broke KITcar's championship streak with a commanding performance across both disciplines. But perhaps most surprising was team Ostfalia-Cup's debut performance:
+
+### Freedrive
 
 - **🥇 First Place: Team Spatzenhirn (University of Ulm)**
-  - Demonstrated superior reliability and consistency
+- **🥈 Second Place: Team Ostfalia-Cup (Ostfalia University of Applied Sciences)**  
+- **🥉 Third Place: Team KITcar (KIT Karlsruhe)**
+- **4️⃣ Fourth Place: Team Smart Rollerz (DHBW Stuttgart)**.
 
-- **🥈 Second Place: Team KITcar (KIT Karlsruhe)**  
-  - Strong performance despite the intoduction of many new innovative technologies
+### Obstacle Evasion
 
-- **🥉 Third Place: Team Smart Rollerz (DHBW Stuttgart)**
-  - Solid improvement from previous year
-  - Successfully mastered intersection challenges
-  
-- **Fourth Place: Team Ostfalia-Cup (Wolfenbüttel)**
-  - Remarkable debut performance
-  - Showed great promise with their innovative approach
+- **🥇 First Place: Team Spatzenhirn (University of Ulm)**
+- **🥈 Second Place: Team Ostfalia-Cup (Ostfalia University of Applied Sciences)**  
+- **🥉 Third Place: Team Smart Rollerz (DHBW Stuttgart) & Team KITcar (KIT Karlsruhe)**.
 
 {% include gallery name="awards_ceremony" title="Awards Ceremony" %}
 
@@ -241,35 +240,10 @@ In a stunning upset, Team Spatzenhirn broke KITcar's championship streak with a 
 
 The introduction of the Navigation discipline marks an evolution in autonomous driving education and competition. Teams are already planning advanced features for next year:
 
-- **Ostfalia**: Platform renewal and sensor upgrades including LiDAR and time-of-flight sensors
+- **Ostfalia-Cup**: Platform renewal and sensor upgrades including LiDAR and time-of-flight sensors
 - **Spatzenhirn**: Integration of Coral TPU for enhanced neural network performance and improved team recruitment
 - **KITcar**: Continued innovation with machine learning integration and enhanced sensor utilization  
 - **Smart Rollerz**: SLAM implementation and advanced object tracking capabilities
-
-## Schedule
-
-**Friday, May 16**
-- 09:00 : Arrival and setup
-- 10:30 : Open track test runs
-- 12:00 : Lunch break
-- 13:00 : Team meetings
-- 14:00 : Scheduled test runs  
-- 19:00 : Team social evening
-
-**Saturday, May 17**
-- 08:00 : Team arrival
-- 09:00 : General briefing
-- 09:30 : Team photoshoot
-- 10:00 : Final test sessions
-- 12:00 : Lunch break
-- 13:00 : Official opening
-- 13:30 : Team presentations
-- 14:00 : Final test runs
-- 15:00 : Competition begins
-  - Freedrive Course
-  - Obstacle Evasion Course  
-- 17:30 : Navigation presentation for future competitions
-- 19:00 : Award ceremony
 
 ## Acknowledgments
 
