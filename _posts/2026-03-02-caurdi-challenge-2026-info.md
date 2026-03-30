@@ -10,20 +10,20 @@ published: true
 
 ## Where? 
 
+The 2026 CAuDri-Challenge is hosted at the ***Fakultät Technik, DHBW Stuttgart, Lerchenstraße 1, 70174 Stuttgart***. It can be reached conveniently from *Linden Museum* bus station, which is served by Bus *40/42* from *Stuttgart main station*.
+
 <br>
 <div class="row">
     <div class="small-12 columns">
         <img src="{{ site.urlimg }}/posts/2026-03-02/DHBW Plan 2026 - EN.svg" alt="Building Plan DHBW Stuttgart">
-        <p class="text-left caption" style="font-size: larger;">
-            Fakultät Technik, DHBW Stuttgart, Lerchenstraße 1, 70174 Stuttgart  
-        </p>
     </div>
 </div>
 
 ## When? 
+The event opens on Saturday 08.05.2026 for participants only. Spectator are welcome to the competitions, which will be held on Sunday 09.05.2026. Please refer to the two schedules for specifics.
 <div class="row">
     <div class="small-12 medium-6 columns">
-        <h3>Participant Schedule</h3>
+        <h3>Participants</h3>
         <h4>Friday, 08.05:</h4>
         <ul class="no-bullet">
             <li>09:00 - Arrival</li>
@@ -49,7 +49,7 @@ published: true
         </ul>
     </div>
     <div class="small-12 medium-6 columns">
-        <h3>Visitor Schedule</h3>
+        <h3>Visitors</h3>
         <h4>Saturday, 09.05:</h4>
         <ul class="no-bullet">
             <li>11:00 - Doors Open</li>
@@ -63,7 +63,7 @@ published: true
 </div>
 
 
-***Note:** The schedule may be subject to change.*
+***Note**: The schedule may be subject to some slight adjustments. Stay up to date by joining our [newsletter](http://localhost:4000/newsletter/)*
 
 <!-- ## Team Participation
 
@@ -71,11 +71,9 @@ There is still time! If your team is interested in joining the competition, plea
 
 ### [Join our Discord Server](https://caudri-challenge.de/join/) -->
 
-## Visitor Registration
+## Registration
 
-If you are planning to attend the CAuDri-Challenge 2026, please let us know by filling out the form below. This will help us to better plan the event and ensure that we can accommodate everyone. 
-
-The event is free to attend, donations are always appreciated and can be made at the entrance. 
+The event is free to attend, donations are always appreciated and can be made at the entrance. If you are planning to attend the CAuDri-Challenge 2026 as a spectator, please let us know by filling out the form below. This will help us to better plan the event and ensure that we can accommodate everyone.  
 
 We are looking forward to welcoming you to the CAuDri-Challenge 2026!
 
@@ -83,16 +81,17 @@ We are looking forward to welcoming you to the CAuDri-Challenge 2026!
 
 <br>
 
-We could always use some help! If you would like to volunteer, feel free to sign up using the form below:
+We could always use some help with catering and referees! If you want to to be a part of this years event, we would highly appreciate any volunteers, feel free to sign up using the form below:
 
-[Volunteer Registration](https://forms.gle/6BQTfJvFr6hDS5dA8)
+### [Volunteer Registration](https://forms.gle/6BQTfJvFr6hDS5dA8)
 
 ## Paticipating Teams
 
-We are excited to announce two new teams that will be participating in the CAuDri-Challenge 2026:  
-**[Team HTWKar](https://smart-driving.htwk-leipzig.de/)** from the Leipzig University of Applied Sciences and **[Team RAVEN GP](https://ravengp-ai.vercel.app/)** from the German University in Cairo.
+We are excited to announce two new teams that will be participating in this years CAuDri-Challenge:  
+**[Team HTWKar](https://smart-driving.htwk-leipzig.de/)** from the Leipzig University of Applied Sciences and  
+**[Team RAVEN GP](https://ravengp-ai.vercel.app/)** from the German University in Cairo.
 
-Joining our returning teams from the previous season, we are looking at a total of 6 teams competing in this year's challenge:
+They will be joining our returning teams from the previous season, we are looking at a total of 6 teams competing in this year's challenge:
 - Team HTWKar (HTWK Leipzig)
 - Team RAVEN GP (German University in Cairo)
 - Team Smart Rollerz (DHBW Stuttgart)
@@ -103,9 +102,7 @@ Joining our returning teams from the previous season, we are looking at a total 
 ## Regulations 
 
 The **regulations have been reworked** for the upcoming competition. 
-The latest version can be found here:
-
-[Official Regulations 2026](https://caudri-challenge.de/regulations/)
+The latest version can be found here: [Official Regulations 2026](https://caudri-challenge.de/regulations/)
 
 <!-- ## Miscellaneous
 
