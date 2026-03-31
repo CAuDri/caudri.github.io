@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://www.caudri-challenge.de/</id>
 	<title>CAuDri-Challenge</title>
-	<updated>2026-03-23T09:49:29+00:00</updated>
+	<updated>2026-03-31T00:29:21+00:00</updated>
 
 	<subtitle>Official website of the Cognitive Autonomous Driving Challenge - Hosted and maintained by CAuDri e.V.</subtitle>
 
@@ -24,6 +24,133 @@
 
 	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://www.caudri-challenge.de/season-2026/caurdi-challenge-2026-info/</id>
+			<title>CAuDri-Challenge 2026 - Pre-Event Information</title>
+			<link href="https://www.caudri-challenge.de/season-2026/caurdi-challenge-2026-info/" rel="alternate" type="text/html" title="CAuDri-Challenge 2026 - Pre-Event Information" />
+			<updated>2026-03-02T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Marius Mogk</name>
+					
+					
+					
+				</author>
+			
+			<summary>The fourth iteration of the CAuDri-Challenge is moving closer! Here is some important information for attendees, visitors, volunteers, and teams.</summary>
+			<content type="html" xml:base="https://www.caudri-challenge.de/season-2026/caurdi-challenge-2026-info/">&lt;h2 id=&quot;where&quot;&gt;Where?&lt;/h2&gt;
+
+&lt;p&gt;The 2026 CAuDri-Challenge is hosted at the &lt;strong&gt;&lt;em&gt;Fakultät Technik, DHBW Stuttgart, Lerchenstraße 1, 70174 Stuttgart&lt;/em&gt;&lt;/strong&gt;. It can be reached conveniently from &lt;em&gt;Linden Museum&lt;/em&gt; bus station, which is served by Bus &lt;em&gt;40/42&lt;/em&gt; from &lt;em&gt;Stuttgart main station&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 columns&quot;&gt;
+        &lt;img src=&quot;/images//posts/2026-03-02/DHBW Plan 2026 - EN.svg&quot; alt=&quot;Building Plan DHBW Stuttgart&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;when&quot;&gt;When?&lt;/h2&gt;
+&lt;p&gt;The event opens on Saturday 08.05.2026 for participants only. Spectator are welcome to the competitions, which will be held on Sunday 09.05.2026. Please refer to the two schedules for specifics.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 medium-6 columns&quot;&gt;
+        &lt;h3&gt;Participants&lt;/h3&gt;
+        &lt;h4&gt;Friday, 08.05:&lt;/h4&gt;
+        &lt;ul class=&quot;no-bullet&quot;&gt;
+            &lt;li&gt;09:00 - Arrival&lt;/li&gt;
+            &lt;li&gt;10:30 - Open-Track Test Runs&lt;/li&gt;
+            &lt;li&gt;12:00 - Lunch&lt;/li&gt;
+            &lt;li&gt;13:00 - Team Meeting&lt;/li&gt;
+            &lt;li&gt;13:30 - Open-Track Test Runs&lt;/li&gt;
+            &lt;li&gt;14:00 - Scheduled Test Runs&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h4&gt;Saturday, 09.05:&lt;/h4&gt;
+        &lt;ul class=&quot;no-bullet&quot;&gt;
+            &lt;li&gt;08:00 - Arrival&lt;/li&gt;
+            &lt;li&gt;09:00 - Team Meeting&lt;/li&gt;
+            &lt;li&gt;09:15 - Team Photoshoot&lt;/li&gt;
+            &lt;li&gt;09:45 - Scheduled Test Runs&lt;/li&gt;
+            &lt;li&gt;11:30 - Final Test Run&lt;/li&gt;
+            &lt;li&gt;12:00 - Lunch&lt;/li&gt;
+            &lt;li&gt;13:00 - Opening + Parc Fermé&lt;/li&gt;
+            &lt;li&gt;13:30 - Competition - Freedrive&lt;/li&gt;
+            &lt;li&gt;16:00 - Competition - Obstacle Evasion&lt;/li&gt;
+            &lt;li&gt;17:30 - Competition - Navigation&lt;/li&gt;
+            &lt;li&gt;19:00 - Award Ceremony&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 columns&quot;&gt;
+        &lt;h3&gt;Visitors&lt;/h3&gt;
+        &lt;h4&gt;Saturday, 09.05:&lt;/h4&gt;
+        &lt;ul class=&quot;no-bullet&quot;&gt;
+            &lt;li&gt;11:00 - Doors Open&lt;/li&gt;
+            &lt;li&gt;13:00 - Opening&lt;/li&gt;
+            &lt;li&gt;13:30 - Competition - Freedrive&lt;/li&gt;
+            &lt;li&gt;16:00 - Competition - Obstacle Evasion&lt;/li&gt;
+            &lt;li&gt;17:30 - Competition - Navigation&lt;/li&gt;
+            &lt;li&gt;19:00 - Award Ceremony&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note&lt;/strong&gt;: The schedule may be subject to some slight adjustments. Stay up to date by joining our &lt;a href=&quot;https://caudri-challenge.de/newsletter/&quot;&gt;newsletter&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;!-- ## Team Participation
+
+There is still time! If your team is interested in joining the competition, please reach out to the CAuDri-Orga directly via our **Discord Server**. We are happy to answer any questions and help you get started.
+
+### [Join our Discord Server](https://caudri-challenge.de/join/) --&gt;
+
+&lt;h2 id=&quot;registration&quot;&gt;Registration&lt;/h2&gt;
+
+&lt;p&gt;The event is free to attend, donations are always appreciated and can be made at the entrance. If you are planning to attend the CAuDri-Challenge 2026 as a spectator, please let us know by filling out the form below. This will help us to better plan the event and ensure that we can accommodate everyone.&lt;/p&gt;
+
+&lt;p&gt;We are looking forward to welcoming you to the CAuDri-Challenge 2026!&lt;/p&gt;
+
+&lt;h3 id=&quot;visitor-registration&quot;&gt;&lt;a href=&quot;https://forms.gle/xN4GpiCgMszGxrT88&quot;&gt;Visitor Registration&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We could always use some help with catering and referees! If you want to to be a part of this years event, we would highly appreciate any volunteers, feel free to sign up using the form below:&lt;/p&gt;
+
+&lt;h3 id=&quot;volunteer-registration&quot;&gt;&lt;a href=&quot;https://forms.gle/6BQTfJvFr6hDS5dA8&quot;&gt;Volunteer Registration&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h2 id=&quot;paticipating-teams&quot;&gt;Paticipating Teams&lt;/h2&gt;
+
+&lt;p&gt;We are excited to announce two new teams that will be participating in this years CAuDri-Challenge:&lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://smart-driving.htwk-leipzig.de/&quot;&gt;Team HTWKar&lt;/a&gt;&lt;/strong&gt; from the Leipzig University of Applied Sciences and&lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://ravengp-ai.vercel.app/&quot;&gt;Team RAVEN GP&lt;/a&gt;&lt;/strong&gt; from the German University in Cairo.&lt;/p&gt;
+
+&lt;p&gt;They will be joining our returning teams from the previous season, we are looking at a total of 6 teams competing in this year’s challenge:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Team HTWKar (HTWK Leipzig)&lt;/li&gt;
+  &lt;li&gt;Team RAVEN GP (German University in Cairo)&lt;/li&gt;
+  &lt;li&gt;Team Smart Rollerz (DHBW Stuttgart)&lt;/li&gt;
+  &lt;li&gt;Team Ostfalia Cup (Ostfalia University of Applied Sciences)&lt;/li&gt;
+  &lt;li&gt;Team Spatzenhirn (Ulm University)&lt;/li&gt;
+  &lt;li&gt;Team KITcar (KIT Karlsruhe)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;regulations&quot;&gt;Regulations&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;regulations have been reworked&lt;/strong&gt; for the upcoming competition. 
+The latest version can be found here: &lt;a href=&quot;https://caudri-challenge.de/regulations/&quot;&gt;Official Regulations 2026&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- ## Miscellaneous
+
+Our [privacy policy](https://caudri-challenge.de/documents/Datenschutzerkl%C3%A4rung_CAuDri-Challenge.pdf) and the [information on photo and video recordings](https://caudri-challenge.de/documents/Hinweise_Fotos_Videos.pdf) apply to participation in the competition. --&gt;
+</content>
+
+			
+				<category term="season-2026" />
+			
+			
+
+			<published>2026-03-02T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://www.caudri-challenge.de/season-2025/caudri-challenge-2025/</id>
