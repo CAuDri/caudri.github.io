@@ -63,7 +63,7 @@ The event opens on Saturday 08.05.2026 for participants only. Spectator are welc
 </div>
 
 
-***Note**: The schedule may be subject to some slight adjustments. Stay up to date by joining our [newsletter](http://localhost:4000/newsletter/)*
+***Note**: The schedule may be subject to some slight adjustments. Stay up to date by joining our [newsletter](https://caudri-challenge.de/newsletter/)*
 
 <!-- ## Team Participation
 
