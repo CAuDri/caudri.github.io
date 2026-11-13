@@ -74,3 +74,57 @@
 
 .team-link { font-size: rem-calc(15); }
 // -------------------------------------------------------------
+
+// About page
+// -------------------------------------------------------------
+.person-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(rem-calc(180), 1fr));
+    gap: rem-calc(16);
+    list-style: none;
+    margin: rem-calc(16) 0 rem-calc(40);
+}
+
+// Same card look as the teams page, so cards without a photo don't float on the page
+.person-card {
+    margin: 0;
+    padding: rem-calc(16);
+    text-align: center;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba($caudri-navy, .08);
+}
+
+.person-photo {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    margin-bottom: rem-calc(12);
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+// Shown until a photo is set: initials of the first and last name
+.person-photo-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba($caudri-blue, .12);
+    font-family: $header-font-family;
+    font-weight: 600;
+    font-size: rem-calc(48);
+    color: $caudri-navy;
+}
+
+.person-name {
+    margin: 0;
+    font-family: $header-font-family;
+    font-size: rem-calc(20);
+    color: $header-font-color;
+}
+
+.person-role {
+    margin: 0;
+    color: $grey-8;
+}
+// -------------------------------------------------------------
