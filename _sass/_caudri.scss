@@ -1,0 +1,76 @@
+// 
+// Additional styles for the CAuDri Website
+//
+
+// Definitions for the Visitor Registration Form
+// -------------------------------------------------------------
+.privacy-policy {
+    font-size: 0.8em;
+}
+
+.form-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.form-footer .checkbox {
+    margin: 0;
+    flex: 1 1 auto;
+}
+
+.form-footer button {
+    flex: 0 0 auto;
+}
+// -------------------------------------------------------------
+
+// Teams page
+// -------------------------------------------------------------
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(rem-calc(250), 1fr));
+    gap: rem-calc(24);
+    list-style: none;
+    margin: rem-calc(16) 0 rem-calc(40);
+}
+
+.team-card {
+    display: flex;
+    flex-direction: column;
+    gap: rem-calc(16);
+    background: #fff;
+    border-radius: 6px;
+    padding: rem-calc(20);
+    box-shadow: 0 1px 3px rgba($caudri-navy, .08);
+}
+
+// Logos come in all shapes, so they share a fixed height and keep their aspect ratio
+.team-logo {
+    width: 100%;
+    height: rem-calc(80);
+    object-fit: contain;
+    object-position: left center;
+}
+
+.team-name {
+    margin: 0 0 rem-calc(4);
+    font-size: rem-calc(22);
+}
+
+.team-meta {
+    margin: 0 0 rem-calc(6);
+    font-size: rem-calc(15);
+    line-height: 1.4;
+}
+
+.team-seasons {
+    margin: 0 0 rem-calc(6);
+    font-size: rem-calc(14);
+    color: $grey-10;
+}
+
+.team-link { font-size: rem-calc(15); }
+// -------------------------------------------------------------

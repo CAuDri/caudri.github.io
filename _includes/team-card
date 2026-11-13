@@ -1,0 +1,21 @@
+{% comment %}
+*
+*   Card for one team from _data/teams.yml
+*
+*   {% include team-card team=team %}
+*
+{% endcomment %}
+{% assign team = include.team %}
+<li class="team-card">
+  {% if team.logo and team.logo != "" %}
+  <img class="team-logo" src="{{ site.urlimg }}logos/teams/{{ team.logo }}" alt="Logo of team {{ team.name }}" loading="lazy">
+  {% endif %}
+  <div class="team-body">
+    <h3 class="team-name">{{ team.name }}</h3>
+    <p class="team-meta">{{ team.institution }}<br>{{ team.city }}</p>
+    <p class="team-seasons">{{ team.seasons | join: " · " }}</p>
+    {% if team.url and team.url != "" %}
+    <a class="team-link" href="{{ team.url }}" target="_blank" rel="noopener">Website ›</a>
+    {% endif %}
+  </div>
+</li>

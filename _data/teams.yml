@@ -1,0 +1,57 @@
+# Teams shown on the Teams page (/teams/).
+#
+# A team is listed under the current season if `seasons` contains the
+# `season` set in pages/teams.md, otherwise under "Former teams".
+#
+# url:  team website (optional)
+# logo: file in images/logos/teams/ (optional), the card shows no logo until set.
+#       Only add logos and photos the team has agreed to.
+
+- name: "KITcar"
+  institution: "Karlsruhe Institute of Technology"
+  city: "Karlsruhe"
+  url: "https://kitcar-team.de/"
+  logo: "kitcar.svg"
+  seasons: [2023, 2024, 2025, 2026]
+
+- name: "Spatzenhirn"
+  institution: "Ulm University"
+  city: "Ulm"
+  url: ""
+  logo: ""
+  seasons: [2023, 2024, 2025, 2026]
+
+- name: "Smart Rollerz"
+  institution: "DHBW Stuttgart"
+  city: "Stuttgart"
+  url: "https://dhbw-smartrollerz.org/"
+  logo: "smartrollerz.svg"
+  seasons: [2023, 2024, 2025, 2026]
+
+- name: "Ostfalia-Cup"
+  institution: "Ostfalia University of Applied Sciences"
+  city: "Wolfenbüttel"
+  url: ""
+  logo: ""
+  seasons: [2025, 2026]
+
+- name: "HTWKar"
+  institution: "HTWK Leipzig"
+  city: "Leipzig"
+  url: "https://smart-driving.htwk-leipzig.de/"
+  logo: ""
+  seasons: [2026]
+
+- name: "GalaXIs"
+  institution: "RWTH Aachen University"
+  city: "Aachen"
+  url: ""
+  logo: ""
+  seasons: [2023]
+
+- name: "e.Wolf"
+  institution: "Ostfalia University of Applied Sciences"
+  city: "Wolfsburg"
+  url: ""
+  logo: ""
+  seasons: [2023]
