@@ -3,24 +3,28 @@
   side: left
   image: "/assets/images/logo.png"
 
-- title: "About"
-  url: "/about/"
-  side: left
-
-- title: "Teams"
-  url: "/teams/"
-  side: left
-
-- title: "Gallery"
-  url: "/gallery/"
+- title: "Regulations"
+  url: "/regulations/"
   side: left
 
 - title: "Posts"
   url: "/blog/"
   side: left
 
-- title: "Regulations"
-  url: "/regulations/"
+- title: "Gallery"
+  url: "/gallery/"
+  side: left
+
+- title: "Teams"
+  url: "/teams/"
+  side: left
+
+- title: "Supporters"
+  url: "/supporters/"
+  side: left
+
+- title: "About"
+  url: "/about/"
   side: left
 
 

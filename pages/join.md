@@ -9,3 +9,7 @@ permalink: /join/
 {% include banner-discord %}
 
 {% include banner-newsletter %}
+
+## Support us
+
+Want to support the CAuDri-Challenge? [Get in touch with us](/contact/) or find out more on our [supporters page](/supporters/).

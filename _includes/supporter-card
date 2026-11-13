@@ -1,0 +1,19 @@
+{% comment %}
+*
+*   One supporter from _data/supporters.yml, shown as logo only.
+*   Without a logo the name is shown as text. The logo links to the
+*   website if a url is set.
+*
+*   {% include supporter-card supporter=supporter %}
+*
+{% endcomment %}
+{% assign supporter = include.supporter %}
+<li class="supporter">
+  {% if supporter.url and supporter.url != "" %}<a href="{{ supporter.url }}" target="_blank" rel="noopener" title="{{ supporter.name }}">{% endif %}
+  {% if supporter.logo and supporter.logo != "" %}
+  <img class="supporter-logo" src="{{ site.urlimg }}logos/sponsors/{{ supporter.logo }}" alt="{{ supporter.name }}" loading="lazy">
+  {% else %}
+  <span class="supporter-name">{{ supporter.name }}</span>
+  {% endif %}
+  {% if supporter.url and supporter.url != "" %}</a>{% endif %}
+</li>

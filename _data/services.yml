@@ -6,6 +6,10 @@
   url: "/contact/"
   title: "Contact"
 
+- name: "Supporters"
+  url: "/supporters/"
+  title: "Our supporters"
+
 - name: "Privacy Policy"
   url: "/privacy/"
   title: "Privacy Policy"
