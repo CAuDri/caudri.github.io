@@ -8,7 +8,7 @@ image:
 ---
 
 ## The CAuDri-Challenge
-The CAuDri-Challenge aims to provide a community driven platform for students to develop their own autonomous model vehicles and compete in a series of driving challenges.
+The CAuDri-Challenge aims to provide a community-driven platform for students to develop their own autonomous model vehicles and compete in a series of driving challenges.
 Each team designs and builds a 1:10 scale autonomous vehicle that is challenged to navigate complex rural and suburban scenarios, adhering to traffic rules, recognizing road signs, obeying speed limits, and maneuvering around obstacles.
 
 Community is our core principle as we seek to connect inspired individuals and let them compete. This challenge is for the students by the students!
@@ -26,6 +26,6 @@ At a get-together at Ulm University in 2023, experiencing cooperation and compet
 
 ## CAuDri e.V.
 We are *CAuDri e.V.*, a registered non-profit organization based in Germany. The organization was founded in 2024 with the goal to host the annual CAuDri-Challenge.
-In cooperation with our teams, partners and institutions, we can provide our participants with regulated tracks for testing, team areas, prices and a platform to compete against each other.
+In cooperation with our teams, partners and institutions, we can provide our participants with regulated tracks for testing, team areas, prizes and a platform to compete against each other.
 We also want to help new teams getting started by offering software and hardware resources to lower the entry barrier.
 

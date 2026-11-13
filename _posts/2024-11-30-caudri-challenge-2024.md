@@ -1,11 +1,11 @@
 ---
 layout: page
 title: CAuDri-Challenge 2024
-teaser: The 2024 CAuDri-Challenge took place on Friday 21st and Saturday 22nd of July, featuring three teams from southern Germany, KITCar from Karlsruhe, Spatzenhirn from Ulm, and the home team Smart Rollerz from Stuttgart.
+teaser: The 2024 CAuDri-Challenge took place on Friday 21st and Saturday 22nd of June, featuring three teams from southern Germany, KITcar from Karlsruhe, Spatzenhirn from Ulm, and the home team Smart Rollerz from Stuttgart.
 categories:  Season-2024
 author: by Jakob Holz
 header: no
-date: 2025-04-23
+date: 2024-11-30
 image:
     title: posts/2024-11-30/team_picture_2024.jpg
     caption: Participants and organizers at the second CAuDri-Challenge at DHBW Stuttgart
@@ -15,7 +15,7 @@ gallery:
     - image_url: posts/2024-11-30/car_kit.webp
       caption: The winning vehicle from KITcar team.
     - image_url: posts/2024-11-30/car_dhbw.webp
-      caption: The hosts vehicle from DHBW Stuttgart.
+      caption: The host's vehicle from DHBW Stuttgart.
 published: true
 ---
 
@@ -23,7 +23,7 @@ Building on the success of last year's inaugural event, we relaxed the schedule 
 
 ## The Tracks
 
-The main competition track was constructed on site from new material and moved to the front of the venue, where better lighting made for brighter pictures but also caused infamous challenges for the cars perception. The problem of direct sunlight is well known within the community. Where there is light, there be shadows. And more importantly here, reflections which can throw off the cars lane marking detection, possibly leading to derailment, which the teams had to overcome.
+The main competition track was constructed on site from new material and moved to the front of the venue, where better lighting made for brighter pictures but also caused infamous challenges for the car's perception. The problem of direct sunlight is well known within the community. Where there is light, there be shadows. And more importantly here, reflections which can throw off the cars lane marking detection, possibly leading to derailment, which the teams had to overcome.
 
 <div class="row">
     <div class="small-12 medium-6 columns">
@@ -76,7 +76,7 @@ The competition was extended to two days this year, allowing the teams to test t
 - 17:30 : Award ceremony
 
 ## Results
-Team KITcar remains firmly at the top of the leader board, for the second time in a row, they demonstrated their superior drive performance and showed how to master difficult road incidents with confidence. Relying on their teams legacy and man power, they show what it takes to be the best. While the champion's runs are certainly a joy to look at (see links below), we must also admire the underdogs brave commitment to face off against the colossus even with the odds stacked against them.
+Team KITcar remains firmly at the top of the leaderboard, for the second time in a row, they demonstrated their superior drive performance and showed how to master difficult road incidents with confidence. Relying on their team's legacy and manpower, they show what it takes to be the best. While the champion's runs are certainly a joy to look at (see links below), we must also admire the underdogs' brave commitment to face off against the colossus even with the odds stacked against them.
 Congratulations to this year's winners:
 
 - **🥇 First Place: Team KITcar (KIT Karlsruhe)**
@@ -104,5 +104,5 @@ This event wouldn't have been possible without the dedication of many individual
 - All referees who volunteered to ensure a fair competition
 - All spectators who came to support the teams
 
-The success of the first CAuDri-Challenge has set a strong foundation for future competitions. We look forward to seeing everyone again at the next event, where we'll continue pushing the boundaries of autonomous driving technology together!
+The success of the second CAuDri-Challenge has set a strong foundation for future competitions. We look forward to seeing everyone again at the next event, where we'll continue pushing the boundaries of autonomous driving technology together!
 

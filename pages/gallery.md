@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline:  "Gallery"
 title:  "CAuDri-Challenge Gallery"
-teaser: "Some impressions of the CAuDri-Challenge 2023 and 2024."
+teaser: "Some impressions of past CAuDri-Challenges."
 permalink: /gallery/
 header: no
 gallery:

@@ -51,7 +51,7 @@ The Basic and Master Cups were merged and the static disciplines were omitted. I
 - 18:00 : Award ceremony
 
 After the teams arrived early, everybody worked together to set up the location. The test tracks were soon set up and the vehicles were on the road. Volunteers, mostly alumni from the teams, were instructed to act as referees, each covering a part of the track and penalizing errors as per the rules.
-After some testing and obligatory last minute bug fixing we came together for pizza and used the time catch up and brag to each other about new approaches and components we came up in friendly and inspiring manner.
+After some testing and obligatory last minute bug fixing we came together for pizza and used the time to catch up and brag to each other about new approaches and components we came up with in a friendly and inspiring manner.
 
 Before the actual competition, each team was given the opportunity to do a final test run on the competition track. 
 
