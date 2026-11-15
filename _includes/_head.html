@@ -51,13 +51,13 @@
 	<meta property="og:locale" content="{% if site.og_locale == nil %}en_EN{% else %}{{ site.og_locale }}{% endif %}">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="{{ site.title }}">
-	<meta property="og:image" content="{{ url }}{{ site.urlimg }}{% if page.image.title %}{{ page.image.title }}{% else %}{{ site.og_image }}{% endif %}">
+	<meta property="og:image" content="{{ page.image.title | default: site.og_image | prepend: site.urlimg | absolute_url }}">
 	{% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
 
 
 	<!-- Twitter / X and other link previews -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="{{ url }}{{ site.urlimg }}{% if page.image.title %}{{ page.image.title }}{% else %}{{ site.og_image }}{% endif %}">
+	<meta name="twitter:image" content="{{ page.image.title | default: site.og_image | prepend: site.urlimg | absolute_url }}">
 	{% if site.socialmedia.twitter %}
 	<meta name="twitter:site" content="{{ site.socialmedia.twitter }}">
 	<meta name="twitter:creator" content="{{ site.socialmedia.twitter }}">
