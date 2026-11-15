@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://www.caudri-challenge.de/</id>
 	<title>CAuDri-Challenge</title>
-	<updated>2026-05-07T19:52:52+00:00</updated>
+	<updated>2026-11-15T15:56:33+00:00</updated>
 
 	<subtitle>Official website of the Cognitive Autonomous Driving Challenge - Hosted and maintained by CAuDri e.V.</subtitle>
 
@@ -22,7 +22,7 @@
 	<link href="https://www.caudri-challenge.de/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="https://www.caudri-challenge.de/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="4.4.1">Jekyll</generator>
 
 	
 		<entry>

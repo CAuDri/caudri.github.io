@@ -11,18 +11,8 @@
 
 	<script src="https://www.caudri-challenge.de/assets/js/modernizr.min.js"></script>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-	<script>
-		WebFont.load({
-			google: {
-				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
-			}
-		});
-	</script>
-
-	<noscript>
-		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
-	</noscript>
+	<link rel="preload" href="https://www.caudri-challenge.de/assets/fonts/web/rajdhani-600.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://www.caudri-challenge.de/assets/fonts/web/lato-400.woff2" as="font" type="font/woff2" crossorigin>
 
 
 	<!-- Search Engine Optimization -->
@@ -42,10 +32,13 @@
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="CAuDri-Challenge">
-	<meta property="og:image" content="/images/posts/2024-11-30/team_picture_2024.jpg">
+	<meta property="og:image" content="https://www.caudri-challenge.de/images/posts/2024-11-30/team_picture_2024.jpg">
 	
 
 
+	<!-- Twitter / X and other link previews -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="https://www.caudri-challenge.de/images/posts/2024-11-30/team_picture_2024.jpg">
 	
 
 	<link type="text/plain" rel="author" href="https://www.caudri-challenge.de/humans.txt">
