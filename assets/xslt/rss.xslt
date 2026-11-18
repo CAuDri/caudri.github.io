@@ -139,6 +139,21 @@
 
             
             
+              <li><a  href="https://www.caudri-challenge.de/blog/">Posts</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
               <li><a  href="https://www.caudri-challenge.de/gallery/">Gallery</a></li>
               <li class="divider"></li>
 
@@ -154,7 +169,22 @@
 
             
             
-              <li><a  href="https://www.caudri-challenge.de/blog/">Posts</a></li>
+              <li><a  href="https://www.caudri-challenge.de/teams/">Teams</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://www.caudri-challenge.de/supporters/">Supporters</a></li>
               <li class="divider"></li>
 
             
@@ -200,6 +230,22 @@
       
 
       <ul class="right">
+        
+
+              
+
+
+
+          
+          
+        
+
+              
+
+
+
+          
+          
         
 
               
@@ -397,6 +443,8 @@
             
               
             
+              
+            
 
               <ul class="no-bullet shadow-black">
               
@@ -408,6 +456,11 @@
                 
                   <li >
                     <a href="https://www.caudri-challenge.de/contact/"  title="Contact">Contact</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://www.caudri-challenge.de/supporters/"  title="Our supporters">Supporters</a>
                   </li>
               
                 
