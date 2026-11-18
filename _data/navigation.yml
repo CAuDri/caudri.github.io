@@ -3,8 +3,8 @@
   side: left
   image: "/assets/images/logo.png"
 
-- title: "Regulations"
-  url: "/regulations/"
+- title: "About"
+  url: "/about/"
   side: left
 
 - title: "Posts"
@@ -23,8 +23,8 @@
   url: "/supporters/"
   side: left
 
-- title: "About"
-  url: "/about/"
+- title: "Regulations"
+  url: "/regulations/"
   side: left
 
 
