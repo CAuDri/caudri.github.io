@@ -1,0 +1,177 @@
+// 
+// Additional styles for the CAuDri Website
+//
+
+// Definitions for the Visitor Registration Form
+// -------------------------------------------------------------
+.privacy-policy {
+    font-size: 0.8em;
+}
+
+.form-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.form-footer .checkbox {
+    margin: 0;
+    flex: 1 1 auto;
+}
+
+.form-footer button {
+    flex: 0 0 auto;
+}
+// -------------------------------------------------------------
+
+// Teams page
+// -------------------------------------------------------------
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(rem-calc(250), 1fr));
+    gap: rem-calc(24);
+    list-style: none;
+    margin: rem-calc(16) 0 rem-calc(40);
+}
+
+.team-card {
+    display: flex;
+    flex-direction: column;
+    gap: rem-calc(16);
+    background: #fff;
+    border-radius: 6px;
+    padding: rem-calc(20);
+    box-shadow: 0 1px 3px rgba($caudri-navy, .08);
+}
+
+// Logos come in all shapes, so they share a fixed height and keep their aspect ratio
+.team-logo {
+    width: 100%;
+    height: rem-calc(80);
+    object-fit: contain;
+    object-position: left center;
+}
+
+.team-name {
+    margin: 0 0 rem-calc(4);
+    font-size: rem-calc(22);
+}
+
+.team-meta {
+    margin: 0 0 rem-calc(6);
+    font-size: rem-calc(15);
+    line-height: 1.4;
+}
+
+.team-seasons {
+    margin: 0 0 rem-calc(6);
+    font-size: rem-calc(14);
+    color: $grey-10;
+}
+
+.team-link { font-size: rem-calc(15); }
+// -------------------------------------------------------------
+
+// About page
+// -------------------------------------------------------------
+.person-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(rem-calc(180), 1fr));
+    gap: rem-calc(16);
+    list-style: none;
+    margin: rem-calc(16) 0 rem-calc(40);
+}
+
+// Same card look as the teams page, so cards without a photo don't float on the page
+.person-card {
+    margin: 0;
+    padding: rem-calc(16);
+    text-align: center;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba($caudri-navy, .08);
+}
+
+.person-photo {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    margin-bottom: rem-calc(12);
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+// Shown until a photo is set: initials of the first and last name
+.person-photo-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba($caudri-blue, .12);
+    font-family: $header-font-family;
+    font-weight: 600;
+    font-size: rem-calc(48);
+    color: $caudri-navy;
+}
+
+.person-name {
+    margin: 0;
+    font-family: $header-font-family;
+    font-size: rem-calc(20);
+    color: $header-font-color;
+}
+
+.person-role {
+    margin: 0;
+    color: $grey-8;
+}
+// -------------------------------------------------------------
+
+// Supporters page
+// -------------------------------------------------------------
+// Logos only, in an even grid. Every logo sits centred in a cell of the same size.
+.supporter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(rem-calc(250), 1fr));
+    list-style: none;
+    margin: rem-calc(24) 0 rem-calc(48);
+}
+
+.supporter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: rem-calc(180);
+    margin: 0;
+    padding: rem-calc(32);
+
+    a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        border-bottom: 0;
+    }
+    a:hover {
+        border-bottom: 0;   // the theme underlines every link in an article on hover
+        opacity: .75;
+    }
+}
+
+.supporter-logo {
+    display: block;
+    width: 100%;
+    height: rem-calc(96);
+    object-fit: contain;   // fills the cell and keeps the proportions, small SVGs are scaled up
+}
+
+.supporter-name {
+    font-family: $header-font-family;
+    font-weight: 600;
+    font-size: rem-calc(22);
+    color: $caudri-navy;
+}
+// -------------------------------------------------------------

@@ -1,0 +1,18 @@
+{% comment %}
+*
+*   Card for one person from _data/people.yml
+*
+*   {% include person-card person=person %}
+*
+{% endcomment %}
+{% assign person = include.person %}
+<li class="person-card">
+  {% if person.photo and person.photo != "" %}
+  <img class="person-photo" src="{{ site.urlimg }}people/{{ person.photo }}" alt="Photo of {{ person.name }}" loading="lazy">
+  {% else %}
+  {% assign name_parts = person.name | split: " " %}
+  <div class="person-photo person-photo-placeholder" aria-hidden="true">{{ name_parts.first | slice: 0 }}{% if name_parts.size > 1 %}{{ name_parts.last | slice: 0 }}{% endif %}</div>
+  {% endif %}
+  <p class="person-name">{{ person.name }}</p>
+  {% if person.role and person.role != "" %}<p class="person-role">{{ person.role }}</p>{% endif %}
+</li>

@@ -1,0 +1,21 @@
+# People shown on the About page (/about/).
+#
+# board:      the board of CAuDri e.V.
+# members:    the organizing team besides the board
+#
+# role:  optional
+# photo: file in images/people/ (optional), shows the initials until set.
+#        Only add photos the person has agreed to.
+
+board:
+  - name: "Yannik Süssmuth"
+    role: "Chair"
+    photo: ""
+  - name: "Marius Mogk"
+    role: "Vice chair"
+    photo: ""
+  - name: "Jonas Weihing"
+    role: "Treasurer"
+    photo: ""
+
+members:

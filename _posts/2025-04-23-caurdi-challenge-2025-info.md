@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAuDri-Challenge 2025 - Pre-Event Information
-teaser: This years CAuDri-Challenge is moving closer. Here is some important information for anybody attending, visitors, volunteers and teammembers.
+teaser: This year's CAuDri-Challenge is moving closer. Here is some important information for anybody attending, visitors, volunteers and team members.
 categories: season-2025
 author: Jakob Holz
 header: no
@@ -70,11 +70,11 @@ If you are planning to attend the event, please let us know by filling out the f
 {% include visitor-registration %}
 
 <!-- Last year the DHBW had a registration form for visitors on their own homepage.
-This year we should do the same on our website. We could embedd another Google Form on a subpage, which would probably be the easiest solution.I'll send you a link to the registration form for volunteers, as soon as it is finished. -->
+This year we should do the same on our website. We could embed another Google Form on a subpage, which would probably be the easiest solution.I'll send you a link to the registration form for volunteers, as soon as it is finished. -->
 
 ## Volunteer Registration
 
 If you could lend a hand, that would be awesome. Together, we can make it happen!
-Please let us know how you would like to help out, by filling out this google form:
+Please let us know how you would like to help out, by filling out this Google Form:
 
 ### [Volunteer Registration](https://forms.gle/YMDLfcXbF4knbKPb7)

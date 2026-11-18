@@ -23,13 +23,13 @@ galleries:
   
   team_vehicles:
     - image_url: posts/2025-08-30/team_vehicles/car_ostfalia.webp
-      caption: Team Ostfalia-Cups vehicle featuring lightweight 3D-printed construction
+      caption: Team Ostfalia-Cup's vehicle featuring lightweight 3D-printed construction
     - image_url: posts/2025-08-30/team_vehicles/car_ulm.webp
-      caption: Team Spatzenhirns Spatz 11 with distinctive onboard monitor
+      caption: Team Spatzenhirn's Spatz 11 with distinctive onboard monitor
     - image_url: posts/2025-08-30/team_vehicles/car_kit.webp
-      caption: Team KITcars Miss Magic with hub wheel motors and digital differential
+      caption: Team KITcar's Miss Magic with hub wheel motors and digital differential
     - image_url: posts/2025-08-30/team_vehicles/car_dhbw.webp
-      caption: Team Smart Rollerzs vehicle featuring annual complete rebuild design
+      caption: Team Smart Rollerz's vehicle featuring annual complete rebuild design
 
   obstacle_course:
     - image_url: posts/2025-08-30/obstacle_course/obstacle-follow.webp
@@ -37,25 +37,21 @@ galleries:
     - image_url: posts/2025-08-30/obstacle_course/obstacle-crosswalk.webp
       caption: Spatz 11 waiting at a crosswalk for a pedestrian to pass
     - image_url: posts/2025-08-30/obstacle_course/obstacle-preperations.webp
-      caption: KitCar team members preparing their vehicle for the obstacle course
+      caption: KITcar team members preparing their vehicle for the obstacle course
 
   tracks:
     - image_url: posts/2025-08-30/tracks/track.webp
-      caption: Teams, organizers, and volunteers celebrating the successful completion of the third CAuDri Challenge
-    - image_url: posts/2025-08-30/tracks/spectator.webp
-      caption: Aerial view of the two competition tracks at DHBW Stuttgart
-    - image_url: posts/2025-08-30/tracks/stage-1.webp
-      caption: The 2025 competition featured two active tracks with comprehensive testing facilities
+      caption: Aerial view of the competition tracks at DHBW Stuttgart
 
   impressions:
     - image_url: posts/2025-08-30/impressions/driving-spatz.webp
-      caption: asdf
+      caption: Spatz 11 from Team Spatzenhirn on the track
     - image_url: posts/2025-08-30/impressions/driving-spatz-2.webp
-      caption: agh
+      caption: Spatz 11 passing an obstacle
     - image_url: posts/2025-08-30/impressions/startbox-kit.webp
-      caption: asdt4r
+      caption: Team KITcar setting up Miss Magic in the start box
     - image_url: posts/2025-08-30/impressions/tinkering-kit.webp
-      caption: asdfg
+      caption: KITcar team members working on their vehicle
 ---
 
 The third CAuDri-Challenge took place on May 16-17, 2025, marking a significant milestone with the presentation of the new Navigation discipline - a challenge designed to test vehicles' ability to find their way through complex environments without predefined paths. While no teams participated in Navigation this year, we introduced the concept to prepare for future competitions. For the first time, we welcomed Team Ostfalia-Cup from Wolfenbüttel, joining our returning champions and creating the most competitive field yet.
@@ -66,7 +62,7 @@ Building on the success of previous years, the 2025 challenge maintained the two
 
 ## The Teams and Their Vehicles
 
-This year's competition featured four teams, each bringing unique approaches and innovations
+This year's competition featured four teams, each bringing unique approaches and innovations.
 
 {% include gallery name="team_vehicles" %}
 
@@ -87,7 +83,7 @@ Making their CAuDri debut, Team Ostfalia brought two vehicles: "Cup" and "Pot". 
 
 **Technology & Approach:**
 - Custom middleware framework instead of ROS for full system control
-- Completely 3D-printed lightweight construction using Fusion360
+- Completely 3D-printed lightweight construction using Fusion 360
 - Task management through GitLab with public documentation
 - Dual-vehicle strategy for testing and redundancy
 
@@ -195,7 +191,7 @@ Key challenges included:
 - Stop signs and yield situations
 
 ### Navigation - The Future Challenge
-While not contested this year, the Navigation discipline was presented to teams as the next evolution in this autonomous driving competition. This challenging concept would require vehicles to explore and map an unknown urban environment and planning the optimal path to preset goal markers - truly testing the "brain" of autonomous vehicles.
+While not contested this year, the Navigation discipline was presented to teams as the next evolution in this autonomous driving competition. This challenging concept would require vehicles to explore and map an unknown urban environment and plan the optimal path to preset goal markers - truly testing the "brain" of autonomous vehicles.
 
 The proposed Navigation challenge includes:
 - Real-time environment mapping
@@ -209,7 +205,6 @@ Teams expressed interest but cited capacity limitations as the reason for not pa
 
 The two-day format proved ideal for both teams and spectators, with Friday dedicated to setup, testing, and team interviews, while Saturday featured the official competition and public demonstrations.
 
-{% include gallery name="competition_action" title="Competition Action" %}
 
 **Team Interviews revealed key insights:**
 - **Ostfalia-Cup** operates as a university working group offering courses to students, with all documentation publicly available via GitLab. They maintain only 6-7 team members but emphasize that everyone understands their simple, effective solutions.
@@ -234,7 +229,6 @@ In a stunning upset, Team Spatzenhirn broke KITcar's championship streak with a 
 - **🥈 Second Place: Team Ostfalia-Cup (Ostfalia University of Applied Sciences)**  
 - **🥉 Third Place: Team Smart Rollerz (DHBW Stuttgart) & Team KITcar (KIT Karlsruhe)**.
 
-{% include gallery name="awards_ceremony" title="Awards Ceremony" %}
 
 ## Looking Forward
 

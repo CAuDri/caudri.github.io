@@ -20,7 +20,7 @@ The 2026 CAuDri-Challenge is hosted at the ***Fakultät Technik, DHBW Stuttgart,
 </div>
 
 ## When? 
-The event opens on Saturday 08.05.2026 for participants only. Spectator are welcome to the competitions, which will be held on Sunday 09.05.2026. Please refer to the two schedules for specifics.
+The event opens on Friday 08.05.2026 for participants only. Spectators are welcome to the competitions, which will be held on Saturday 09.05.2026. Please refer to the two schedules for specifics.
 <div class="row">
     <div class="small-12 medium-6 columns">
         <h3>Participants</h3>
@@ -81,13 +81,13 @@ We are looking forward to welcoming you to the CAuDri-Challenge 2026!
 
 <br>
 
-We could always use some help with catering and referees! If you want to to be a part of this years event, we would highly appreciate any volunteers, feel free to sign up using the form below:
+We could always use some help with catering and referees! If you want to be a part of this year's event, we would highly appreciate any volunteers, feel free to sign up using the form below:
 
 ### [Volunteer Registration](https://forms.gle/6BQTfJvFr6hDS5dA8)
 
-## Paticipating Teams
+## Participating Teams
 
-We are excited to announce two new teams that will be participating in this years CAuDri-Challenge:  
+We are excited to announce two new teams that will be participating in this year's CAuDri-Challenge:  
 **[Team HTWKar](https://smart-driving.htwk-leipzig.de/)** from the Leipzig University of Applied Sciences and  
 **[Team RAVEN GP](https://ravengp-ai.vercel.app/)** from the German University in Cairo.
 
@@ -95,7 +95,7 @@ They will be joining our returning teams from the previous season, we are lookin
 - Team HTWKar (HTWK Leipzig)
 - Team RAVEN GP (German University in Cairo)
 - Team Smart Rollerz (DHBW Stuttgart)
-- Team Ostfalia Cup (Ostfalia University of Applied Sciences)
+- Team Ostfalia-Cup (Ostfalia University of Applied Sciences)
 - Team Spatzenhirn (Ulm University)
 - Team KITcar (KIT Karlsruhe)
 

@@ -1,0 +1,12 @@
+# Supporters shown on the Supporters page (/supporters/).
+#
+# name:        used as alt text, shown as text while there is no logo
+# url:         website (optional), makes the logo and name a link.
+#              Leave empty for sponsors: a link to a sponsor's website can count
+#              as advertising and make the sponsoring taxable for the e.V.
+# logo:        file in images/logos/sponsors/ (optional), shows the name as text until set.
+#              Only add logos the supporters have agreed to.
+
+- name: "DHBW Stuttgart"
+  url: ""
+  logo: "dhbw-stuttgart.svg"
